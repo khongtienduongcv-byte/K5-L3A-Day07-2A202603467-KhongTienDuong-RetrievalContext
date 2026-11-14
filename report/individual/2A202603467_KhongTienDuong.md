@@ -73,5 +73,5 @@ Ba phương pháp truy xuất dữ liệu (retrieval) được cấu hình và c
 - [x] Báo cáo chi tiết theo cấu trúc yêu cầu.  
 - [x] Đã thiết lập `.gitignore`, hoàn toàn **không** chứa file `.env`, API key, hoặc dữ liệu nhạy cảm.
 
-**Repo cá nhân:** `K5-L3A-DAY07-2A202603467-RetrievalContext`  
-**Link nộp:** (Sẽ gửi qua hệ thống sau khi commit và push mã nguồn).
+**Repo cá nhân:** `K5-L3A-DAY07-2A202603467-KhongTienDuong-RetrievalContext`  
+**Link nộp:** https://github.com/khongtienduongcv-byte/K5-L3A-Day07-2A202603467-KhongTienDuong-RetrievalContext.git
