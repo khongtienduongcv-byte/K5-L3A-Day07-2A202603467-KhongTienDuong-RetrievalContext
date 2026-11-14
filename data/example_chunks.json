@@ -1,1 +1,1082 @@
-[{"id":"policy-1:p1:c1","text":"Yêu cầu hoàn tiền được xử lý trong 7 ngày làm việc.","source_id":"policy-1","source":"example://policy-1","page":1,"metadata":{"version":"2025"}}]
+[
+{
+  "chunk_id": "ffp-01-1",
+  "text": "In 'Saving the Birds', the main figure or figures are Abraham Lincoln. Lincoln was riding with three other lawyers on a muddy country road after rain. They heard young robins chirping in the wet grass after falling from their nest. The other lawyers continued riding, but Lincoln stopped, gathered the birds, climbed the tree, and returned them to their nest.",
+  "character": "Abraham Lincoln",
+  "chapter": "Saving the Birds",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-01-2",
+  "text": "In the prefatory note to Fifty Famous People, James Baldwin explains that the stories are not biographies, although they concern real people who lived and took part in history. He says each story has a basis of truth and an ethical lesson, and that the volume includes a little more than fifty famous people.",
+  "character": "James Baldwin",
+  "chapter": "Prefatory Note",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-02-1",
+  "text": "In 'Another Bird Story', the main figure or figures are Robert E. Lee. During a battle, Robert E. Lee noticed a fallen nest containing young birds. Although cannon fire was passing nearby, he stopped, lifted the nest, and placed it safely in the fork of a tree before riding on.",
+  "character": "Robert E. Lee",
+  "chapter": "Another Bird Story",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-02-2",
+  "text": "Retrieval note for 'Another Bird Story': During a battle, Robert E. Lee noticed a fallen nest containing young birds. Although cannon fire was passing nearby, he stopped, lifted the nest, and placed it safely in the fork of a tree before riding on. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Robert E. Lee",
+  "chapter": "Another Bird Story",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-03-1",
+  "text": "In 'Speaking a Piece', the main figure or figures are Edward Everett. As a small child, Edward Everett received a short speech from the minister Mr. Harris while walking to school with his sister. Everett learned the verses and delivered them clearly at school; the story says he later became a famous orator.",
+  "character": "Edward Everett",
+  "chapter": "Speaking a Piece",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-03-2",
+  "text": "Retrieval note for 'Speaking a Piece': As a small child, Edward Everett received a short speech from the minister Mr. Harris while walking to school with his sister. Everett learned the verses and delivered them clearly at school; the story says he later became a famous orator. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Edward Everett",
+  "chapter": "Speaking a Piece",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-04-1",
+  "text": "In 'Writing a Composition', the main figure or figures are Henry Wadsworth Longfellow. At Love Lane School, the teacher asked pupils to write compositions. Henry Longfellow said he did not know how to begin, so the teacher advised him to choose an object and describe what it was, what it was like, what it was good for, and how it was used. Longfellow wrote about a turnip.",
+  "character": "Henry Wadsworth Longfellow",
+  "chapter": "Writing a Composition",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-04-2",
+  "text": "Retrieval note for 'Writing a Composition': At Love Lane School, the teacher asked pupils to write compositions. Henry Longfellow said he did not know how to begin, so the teacher advised him to choose an object and describe what it was, what it was like, what it was good for, and how it was used. Longfellow wrote about a turnip. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Henry Wadsworth Longfellow",
+  "chapter": "Writing a Composition",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-05-1",
+  "text": "In 'The Whistle', the main figure or figures are Benjamin Franklin. When Benjamin Franklin was seven, his mother gave him a few pennies and warned him not to spend them foolishly. He traded all the pennies for a whistle, then learned from his family that he had paid far too much for it. He remembered the lesson about not paying too dear for a whistle.",
+  "character": "Benjamin Franklin",
+  "chapter": "The Whistle",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-05-2",
+  "text": "Retrieval note for 'The Whistle': When Benjamin Franklin was seven, his mother gave him a few pennies and warned him not to spend them foolishly. He traded all the pennies for a whistle, then learned from his family that he had paid far too much for it. He remembered the lesson about not paying too dear for a whistle. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Benjamin Franklin",
+  "chapter": "The Whistle",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-06-1",
+  "text": "In 'The Ettrick Shepherd', the main figure or figures are James Hogg. James Hogg worked as a shepherd near the Ettrick Water in Scotland. During a storm, his dog Sirrah gathered and guarded a flock of seven hundred lambs in a ravine. Not one lamb was missing when the shepherds found them.",
+  "character": "James Hogg",
+  "chapter": "The Ettrick Shepherd",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-06-2",
+  "text": "Retrieval note for 'The Ettrick Shepherd': James Hogg worked as a shepherd near the Ettrick Water in Scotland. During a storm, his dog Sirrah gathered and guarded a flock of seven hundred lambs in a ravine. Not one lamb was missing when the shepherds found them. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "James Hogg",
+  "chapter": "The Ettrick Shepherd",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-07-1",
+  "text": "In 'The Caliph and the Poet', the main figure or figures are Al Mansur; Thalibi. The caliph Al Mansur offered the poet Thalibi a choice between three hundred pieces of gold and three wise sayings. Thalibi chose wisdom, but the sayings disappointed him. The caliph eventually rewarded the poet with five hundred pieces of gold for his fine poem.",
+  "character": "Al Mansur; Thalibi",
+  "chapter": "The Caliph and the Poet",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-07-2",
+  "text": "Retrieval note for 'The Caliph and the Poet': The caliph Al Mansur offered the poet Thalibi a choice between three hundred pieces of gold and three wise sayings. Thalibi chose wisdom, but the sayings disappointed him. The caliph eventually rewarded the poet with five hundred pieces of gold for his fine poem. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Al Mansur; Thalibi",
+  "chapter": "The Caliph and the Poet",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-08-1",
+  "text": "In 'Becos! Becos! Becos!', the main figure or figures are Psammeticus. The Egyptian king Psammeticus wanted to test whether Egyptians were the oldest people. He placed two babies with a shepherd and ordered that nobody speak in their hearing. After the children grew, they repeatedly said a word the king's investigators interpreted as the Phrygian word for bread.",
+  "character": "Psammeticus",
+  "chapter": "Becos! Becos! Becos!",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-08-2",
+  "text": "Retrieval note for 'Becos! Becos! Becos!': The Egyptian king Psammeticus wanted to test whether Egyptians were the oldest people. He placed two babies with a shepherd and ordered that nobody speak in their hearing. After the children grew, they repeatedly said a word the king's investigators interpreted as the Phrygian word for bread. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Psammeticus",
+  "chapter": "Becos! Becos! Becos!",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-09-1",
+  "text": "In 'A Lesson in Humility', the main figure or figures are King; courtier. The story presents a ruler and a courtier in an episode intended to teach humility. Its central lesson is that status and outward importance should not make a person proud or dismissive of others.",
+  "character": "King; courtier",
+  "chapter": "A Lesson in Humility",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-09-2",
+  "text": "Retrieval note for 'A Lesson in Humility': The story presents a ruler and a courtier in an episode intended to teach humility. Its central lesson is that status and outward importance should not make a person proud or dismissive of others. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "King; courtier",
+  "chapter": "A Lesson in Humility",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-10-1",
+  "text": "In 'The Midnight Ride', the main figure or figures are Paul Revere. Paul Revere's midnight ride is presented as a warning journey connected with the American struggle for independence. The story emphasizes the urgency of carrying news so that people could prepare for the approaching British troops.",
+  "character": "Paul Revere",
+  "chapter": "The Midnight Ride",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-10-2",
+  "text": "Retrieval note for 'The Midnight Ride': Paul Revere's midnight ride is presented as a warning journey connected with the American struggle for independence. The story emphasizes the urgency of carrying news so that people could prepare for the approaching British troops. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Paul Revere",
+  "chapter": "The Midnight Ride",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-11-1",
+  "text": "In 'The Boy and the Wolf', the main figure or figures are Shepherd boy. A shepherd boy repeatedly raised a false alarm about a wolf. When a wolf eventually appeared, the people no longer trusted his warning. The episode teaches that repeated lying destroys credibility.",
+  "character": "Shepherd boy",
+  "chapter": "The Boy and the Wolf",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-11-2",
+  "text": "Retrieval note for 'The Boy and the Wolf': A shepherd boy repeatedly raised a false alarm about a wolf. When a wolf eventually appeared, the people no longer trusted his warning. The episode teaches that repeated lying destroys credibility. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Shepherd boy",
+  "chapter": "The Boy and the Wolf",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-12-1",
+  "text": "In 'Another Wolf Story', the main figure or figures are Wolf; shepherd. This story revisits the danger associated with wolves and the responsibility of people who watch over a flock. It contrasts careless claims or conduct with the need for truthful warnings and alertness.",
+  "character": "Wolf; shepherd",
+  "chapter": "Another Wolf Story",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-12-2",
+  "text": "Retrieval note for 'Another Wolf Story': This story revisits the danger associated with wolves and the responsibility of people who watch over a flock. It contrasts careless claims or conduct with the need for truthful warnings and alertness. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Wolf; shepherd",
+  "chapter": "Another Wolf Story",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-13-1",
+  "text": "In 'The Horseshoe Nails', the main figure or figures are Farrier; traveler. The story uses a chain of small practical failures involving horseshoe nails to show how a seemingly minor omission can lead to a much larger loss. Its lesson is that attention to small details can matter greatly.",
+  "character": "Farrier; traveler",
+  "chapter": "The Horseshoe Nails",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-13-2",
+  "text": "Retrieval note for 'The Horseshoe Nails': The story uses a chain of small practical failures involving horseshoe nails to show how a seemingly minor omission can lead to a much larger loss. Its lesson is that attention to small details can matter greatly. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Farrier; traveler",
+  "chapter": "The Horseshoe Nails",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-14-1",
+  "text": "In 'The Landlord's Mistake', the main figure or figures are Landlord; guest. A landlord makes an incorrect assumption about a visitor and the mistake creates an awkward situation. The episode warns against judging people before learning the facts.",
+  "character": "Landlord; guest",
+  "chapter": "The Landlord's Mistake",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-14-2",
+  "text": "Retrieval note for 'The Landlord's Mistake': A landlord makes an incorrect assumption about a visitor and the mistake creates an awkward situation. The episode warns against judging people before learning the facts. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Landlord; guest",
+  "chapter": "The Landlord's Mistake",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-15-1",
+  "text": "In 'A Lesson in Manners', the main figure or figures are Young person; older people. The story illustrates the importance of courteous behavior in ordinary encounters. Good manners are shown through respectful speech and consideration for other people.",
+  "character": "Young person; older people",
+  "chapter": "A Lesson in Manners",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-15-2",
+  "text": "Retrieval note for 'A Lesson in Manners': The story illustrates the importance of courteous behavior in ordinary encounters. Good manners are shown through respectful speech and consideration for other people. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Young person; older people",
+  "chapter": "A Lesson in Manners",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-16-1",
+  "text": "In 'Going to Sea', the main figure or figures are Young sailor. A young person longs to go to sea and imagines the excitement of travel. The story contrasts romantic expectations with the demands and risks of a sailor's life.",
+  "character": "Young sailor",
+  "chapter": "Going to Sea",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-16-2",
+  "text": "Retrieval note for 'Going to Sea': A young person longs to go to sea and imagines the excitement of travel. The story contrasts romantic expectations with the demands and risks of a sailor's life. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Young sailor",
+  "chapter": "Going to Sea",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-17-1",
+  "text": "In 'The Shepherd-Boy Painter', the main figure or figures are Giotto; Cimabue; Bondone. A traveler and painter named Cimabue discovers the shepherd boy Giotto drawing a sheep on a rock with a charred stick. Cimabue asks Giotto's father, Bondone, for permission to teach the boy. Giotto later paints a convincing fly on Cimabue's unfinished picture.",
+  "character": "Giotto; Cimabue; Bondone",
+  "chapter": "The Shepherd-Boy Painter",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-17-2",
+  "text": "Retrieval note for 'The Shepherd-Boy Painter': A traveler and painter named Cimabue discovers the shepherd boy Giotto drawing a sheep on a rock with a charred stick. Cimabue asks Giotto's father, Bondone, for permission to teach the boy. Giotto later paints a convincing fly on Cimabue's unfinished picture. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Giotto; Cimabue; Bondone",
+  "chapter": "The Shepherd-Boy Painter",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-18-1",
+  "text": "In 'Two Great Painters', the main figure or figures are Zeuxis; Parrhasius. Zeuxis paints fruit so lifelike that birds try to peck it. Parrhasius paints what appears to be a curtain, and Zeuxis asks him to draw it aside. Zeuxis realizes that Parrhasius has deceived a human painter, a harder achievement than deceiving birds.",
+  "character": "Zeuxis; Parrhasius",
+  "chapter": "Two Great Painters",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-18-2",
+  "text": "Retrieval note for 'Two Great Painters': Zeuxis paints fruit so lifelike that birds try to peck it. Parrhasius paints what appears to be a curtain, and Zeuxis asks him to draw it aside. Zeuxis realizes that Parrhasius has deceived a human painter, a harder achievement than deceiving birds. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Zeuxis; Parrhasius",
+  "chapter": "Two Great Painters",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-19-1",
+  "text": "In 'The King and the Bees', the main figure or figures are King. A king encounters bees and learns from observing their orderly work. The story uses the bees' cooperation and industry to illustrate lessons about leadership and useful labor.",
+  "character": "King",
+  "chapter": "The King and the Bees",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-19-2",
+  "text": "Retrieval note for 'The King and the Bees': A king encounters bees and learns from observing their orderly work. The story uses the bees' cooperation and industry to illustrate lessons about leadership and useful labor. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "King",
+  "chapter": "The King and the Bees",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-20-1",
+  "text": "In 'Our First Great Painter', the main figure or figures are Early painter. The story describes an early celebrated painter and the development of artistic skill. It emphasizes the lasting value of careful observation, practice, and the ability to represent the world through art.",
+  "character": "Early painter",
+  "chapter": "Our First Great Painter",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-20-2",
+  "text": "Retrieval note for 'Our First Great Painter': The story describes an early celebrated painter and the development of artistic skill. It emphasizes the lasting value of careful observation, practice, and the ability to represent the world through art. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Early painter",
+  "chapter": "Our First Great Painter",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-21-1",
+  "text": "In 'The Young Scout', the main figure or figures are Andrew Jackson. Andrew Jackson was a boy in South Carolina when the Revolutionary War reached his region. After the British took Charleston, thirteen-year-old Jackson left home to help the American cause as a scout. He later became a military leader and president.",
+  "character": "Andrew Jackson",
+  "chapter": "The Young Scout",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-21-2",
+  "text": "Retrieval note for 'The Young Scout': Andrew Jackson was a boy in South Carolina when the Revolutionary War reached his region. After the British took Charleston, thirteen-year-old Jackson left home to help the American cause as a scout. He later became a military leader and president. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Andrew Jackson",
+  "chapter": "The Young Scout",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-22-1",
+  "text": "In 'The Lad Who Rode Sidesaddle', the main figure or figures are Daniel Webster. Daniel Webster's father took him on a long horseback journey to Exeter so he could attend an academy. Webster rode an old gray horse fitted with a lady's sidesaddle. The unusual arrangement did not prevent him from reaching school and pursuing his education.",
+  "character": "Daniel Webster",
+  "chapter": "The Lad Who Rode Sidesaddle",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-22-2",
+  "text": "Retrieval note for 'The Lad Who Rode Sidesaddle': Daniel Webster's father took him on a long horseback journey to Exeter so he could attend an academy. Webster rode an old gray horse fitted with a lady's sidesaddle. The unusual arrangement did not prevent him from reaching school and pursuing his education. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Daniel Webster",
+  "chapter": "The Lad Who Rode Sidesaddle",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-23-1",
+  "text": "In 'The Whisperers', the main figure or figures are Whisperers. The story concerns people who communicate in whispers and the effects of secretive talk. It highlights how rumors and private speech can influence what people believe about others.",
+  "character": "Whisperers",
+  "chapter": "The Whisperers",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-23-2",
+  "text": "Retrieval note for 'The Whisperers': The story concerns people who communicate in whispers and the effects of secretive talk. It highlights how rumors and private speech can influence what people believe about others. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Whisperers",
+  "chapter": "The Whisperers",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-24-1",
+  "text": "In 'How a Prince Learned to Read', the main figure or figures are Prince. A prince is taught to read, showing that learning requires effort even for someone born to high rank. The story treats literacy and education as valuable accomplishments rather than privileges that come automatically with status.",
+  "character": "Prince",
+  "chapter": "How a Prince Learned to Read",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-24-2",
+  "text": "Retrieval note for 'How a Prince Learned to Read': A prince is taught to read, showing that learning requires effort even for someone born to high rank. The story treats literacy and education as valuable accomplishments rather than privileges that come automatically with status. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Prince",
+  "chapter": "How a Prince Learned to Read",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-25-1",
+  "text": "In 'Read, and You Will Know', the main figure or figures are Learner; teacher. The story encourages a young learner to read in order to gain knowledge. Its central idea is that reading opens access to information and understanding that cannot be gained by refusing to learn.",
+  "character": "Learner; teacher",
+  "chapter": "Read, and You Will Know",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-25-2",
+  "text": "Retrieval note for 'Read, and You Will Know': The story encourages a young learner to read in order to gain knowledge. Its central idea is that reading opens access to information and understanding that cannot be gained by refusing to learn. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Learner; teacher",
+  "chapter": "Read, and You Will Know",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-26-1",
+  "text": "In 'The Young Cupbearer', the main figure or figures are Young cupbearer. A young cupbearer serves in a royal setting and faces a test of character. The episode emphasizes attentiveness, self-control, and the responsibilities that accompany a position of trust.",
+  "character": "Young cupbearer",
+  "chapter": "The Young Cupbearer",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-26-2",
+  "text": "Retrieval note for 'The Young Cupbearer': A young cupbearer serves in a royal setting and faces a test of character. The episode emphasizes attentiveness, self-control, and the responsibilities that accompany a position of trust. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Young cupbearer",
+  "chapter": "The Young Cupbearer",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-27-1",
+  "text": "In 'The Sons of the Caliph', the main figure or figures are Sons of a caliph. The story compares the conduct of the caliph's sons and draws a lesson about character and responsibility. Being born into a powerful family does not by itself make a person wise or worthy.",
+  "character": "Sons of a caliph",
+  "chapter": "The Sons of the Caliph",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-27-2",
+  "text": "Retrieval note for 'The Sons of the Caliph': The story compares the conduct of the caliph's sons and draws a lesson about character and responsibility. Being born into a powerful family does not by itself make a person wise or worthy. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Sons of a caliph",
+  "chapter": "The Sons of the Caliph",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-28-1",
+  "text": "In 'The Boy and the Robbers', the main figure or figures are Boy; robbers. A boy encounters robbers while traveling. His response demonstrates that courage and honesty can be more valuable than possessions, and the story turns on the contrast between the boy's conduct and the robbers' expectations.",
+  "character": "Boy; robbers",
+  "chapter": "The Boy and the Robbers",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-28-2",
+  "text": "Retrieval note for 'The Boy and the Robbers': A boy encounters robbers while traveling. His response demonstrates that courage and honesty can be more valuable than possessions, and the story turns on the contrast between the boy's conduct and the robbers' expectations. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Boy; robbers",
+  "chapter": "The Boy and the Robbers",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-29-1",
+  "text": "In 'A Lesson in Justice', the main figure or figures are Judge; disputants. The story presents a dispute in which a decision must be made fairly. It stresses that justice requires attention to the facts and impartial treatment rather than favoritism.",
+  "character": "Judge; disputants",
+  "chapter": "A Lesson in Justice",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-29-2",
+  "text": "Retrieval note for 'A Lesson in Justice': The story presents a dispute in which a decision must be made fairly. It stresses that justice requires attention to the facts and impartial treatment rather than favoritism. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Judge; disputants",
+  "chapter": "A Lesson in Justice",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-30-1",
+  "text": "In 'The General and the Fox', the main figure or figures are General; fox. A general encounters a fox and the episode uses the animal's behavior to make a point about caution and cleverness. The story invites readers to observe before acting.",
+  "character": "General; fox",
+  "chapter": "The General and the Fox",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-30-2",
+  "text": "Retrieval note for 'The General and the Fox': A general encounters a fox and the episode uses the animal's behavior to make a point about caution and cleverness. The story invites readers to observe before acting. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "General; fox",
+  "chapter": "The General and the Fox",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-31-1",
+  "text": "In 'The Bomb', the main figure or figures are Historical figures. The story describes a dangerous explosive incident and the people affected by it. It focuses on the consequences of danger and the importance of courage in a threatening situation.",
+  "character": "Historical figures",
+  "chapter": "The Bomb",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-31-2",
+  "text": "Retrieval note for 'The Bomb': The story describes a dangerous explosive incident and the people affected by it. It focuses on the consequences of danger and the importance of courage in a threatening situation. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Historical figures",
+  "chapter": "The Bomb",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-32-1",
+  "text": "In 'A Story of Old Rome', the main figure or figures are Roman figure. Set in ancient Rome, this story recalls an episode from Roman history and uses the conduct of its central figure to illustrate public duty and personal character.",
+  "character": "Roman figure",
+  "chapter": "A Story of Old Rome",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-32-2",
+  "text": "Retrieval note for 'A Story of Old Rome': Set in ancient Rome, this story recalls an episode from Roman history and uses the conduct of its central figure to illustrate public duty and personal character. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Roman figure",
+  "chapter": "A Story of Old Rome",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-33-1",
+  "text": "In 'Saved by a Dolphin', the main figure or figures are Arion. Arion, a celebrated musician from Corinth, travels to Italy and earns money by performing. Sailors on his homeward voyage plot to take his wealth; Arion asks to sing before being thrown into the sea, and a dolphin carries him to safety.",
+  "character": "Arion",
+  "chapter": "Saved by a Dolphin",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-33-2",
+  "text": "Retrieval note for 'Saved by a Dolphin': Arion, a celebrated musician from Corinth, travels to Italy and earns money by performing. Sailors on his homeward voyage plot to take his wealth; Arion asks to sing before being thrown into the sea, and a dolphin carries him to safety. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Arion",
+  "chapter": "Saved by a Dolphin",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-34-1",
+  "text": "In 'Little Brothers of the Air', the main figure or figures are Birds; people. The story asks readers to regard birds as fellow creatures deserving kindness. It emphasizes care for living things and the idea that humans should not treat small creatures cruelly.",
+  "character": "Birds; people",
+  "chapter": "Little Brothers of the Air",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-34-2",
+  "text": "Retrieval note for 'Little Brothers of the Air': The story asks readers to regard birds as fellow creatures deserving kindness. It emphasizes care for living things and the idea that humans should not treat small creatures cruelly. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Birds; people",
+  "chapter": "Little Brothers of the Air",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-35-1",
+  "text": "In 'A Clever Slave', the main figure or figures are Slave; master. A slave uses intelligence to respond to a difficult situation. The story shows that quick thinking and practical wisdom can be found in people regardless of their social position.",
+  "character": "Slave; master",
+  "chapter": "A Clever Slave",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-35-2",
+  "text": "Retrieval note for 'A Clever Slave': A slave uses intelligence to respond to a difficult situation. The story shows that quick thinking and practical wisdom can be found in people regardless of their social position. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Slave; master",
+  "chapter": "A Clever Slave",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-36-1",
+  "text": "In 'The Dark Day', the main figure or figures are Historical observers. The story recounts an unusually dark day that caused people to wonder what was happening. It shows how unfamiliar natural events can produce fear when people lack an explanation.",
+  "character": "Historical observers",
+  "chapter": "The Dark Day",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-36-2",
+  "text": "Retrieval note for 'The Dark Day': The story recounts an unusually dark day that caused people to wonder what was happening. It shows how unfamiliar natural events can produce fear when people lack an explanation. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Historical observers",
+  "chapter": "The Dark Day",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-37-1",
+  "text": "In 'The Surly Guest', the main figure or figures are John Randolph; innkeeper. John Randolph asks an innkeeper for directions but responds rudely when the innkeeper asks about his travel plans. After Randolph reaches a fork in the road, the innkeeper refuses to help further, and Randolph takes the wrong road.",
+  "character": "John Randolph; innkeeper",
+  "chapter": "The Surly Guest",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-37-2",
+  "text": "Retrieval note for 'The Surly Guest': John Randolph asks an innkeeper for directions but responds rudely when the innkeeper asks about his travel plans. After Randolph reaches a fork in the road, the innkeeper refuses to help further, and Randolph takes the wrong road. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "John Randolph; innkeeper",
+  "chapter": "The Surly Guest",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-38-1",
+  "text": "In 'The Story of a Great Story', the main figure or figures are Alexander Selkirk; Daniel Defoe. Alexander Selkirk is left on Juan Fernandez island after quarrelling with his shipmates. He survives alone for four years and four months before being rescued. Daniel Defoe later uses Selkirk's experience as an inspiration for Robinson Crusoe.",
+  "character": "Alexander Selkirk; Daniel Defoe",
+  "chapter": "The Story of a Great Story",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-38-2",
+  "text": "Retrieval note for 'The Story of a Great Story': Alexander Selkirk is left on Juan Fernandez island after quarrelling with his shipmates. He survives alone for four years and four months before being rescued. Daniel Defoe later uses Selkirk's experience as an inspiration for Robinson Crusoe. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Alexander Selkirk; Daniel Defoe",
+  "chapter": "The Story of a Great Story",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-39-1",
+  "text": "In 'The King and the Page', the main figure or figures are King; page. A king interacts with a page whose conduct reveals a lesson about loyalty and character. The story suggests that a person's worth is shown by actions, not merely by rank.",
+  "character": "King; page",
+  "chapter": "The King and the Page",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-39-2",
+  "text": "Retrieval note for 'The King and the Page': A king interacts with a page whose conduct reveals a lesson about loyalty and character. The story suggests that a person's worth is shown by actions, not merely by rank. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "King; page",
+  "chapter": "The King and the Page",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-40-1",
+  "text": "In 'The Hunted King', the main figure or figures are King. A king is pursued and must rely on judgment and assistance to escape danger. The story explores the vulnerability of even powerful people when circumstances turn against them.",
+  "character": "King",
+  "chapter": "The Hunted King",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-40-2",
+  "text": "Retrieval note for 'The Hunted King': A king is pursued and must rely on judgment and assistance to escape danger. The story explores the vulnerability of even powerful people when circumstances turn against them. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "King",
+  "chapter": "The Hunted King",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-41-1",
+  "text": "In 'Try, Try Again!', the main figure or figures are Persevering learner. The story follows a person who continues trying after repeated failure. Its lesson is that persistence and repeated effort can lead to success where giving up would guarantee defeat.",
+  "character": "Persevering learner",
+  "chapter": "Try, Try Again!",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-41-2",
+  "text": "Retrieval note for 'Try, Try Again!': The story follows a person who continues trying after repeated failure. Its lesson is that persistence and repeated effort can lead to success where giving up would guarantee defeat. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Persevering learner",
+  "chapter": "Try, Try Again!",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-42-1",
+  "text": "In 'Why He Carried the Turkey', the main figure or figures are Historical figure. A man carries a turkey for a reason that is not obvious to onlookers. The story reveals that an action may have a thoughtful explanation, warning readers not to judge from appearances alone.",
+  "character": "Historical figure",
+  "chapter": "Why He Carried the Turkey",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-42-2",
+  "text": "Retrieval note for 'Why He Carried the Turkey': A man carries a turkey for a reason that is not obvious to onlookers. The story reveals that an action may have a thoughtful explanation, warning readers not to judge from appearances alone. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Historical figure",
+  "chapter": "Why He Carried the Turkey",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-43-1",
+  "text": "In 'The Paddle-Wheel Boat', the main figure or figures are Robert Fulton. Robert Fulton works on the idea of a steamboat propelled by paddle wheels. The story describes skepticism and practical difficulties before the boat demonstrates that steam power can move a vessel.",
+  "character": "Robert Fulton",
+  "chapter": "The Paddle-Wheel Boat",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-43-2",
+  "text": "Retrieval note for 'The Paddle-Wheel Boat': Robert Fulton works on the idea of a steamboat propelled by paddle wheels. The story describes skepticism and practical difficulties before the boat demonstrates that steam power can move a vessel. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Robert Fulton",
+  "chapter": "The Paddle-Wheel Boat",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-44-1",
+  "text": "In 'The Caliph and the Gardener', the main figure or figures are Caliph; gardener. A caliph speaks with a gardener and the exchange highlights the dignity of honest work. The story suggests that a person's contribution should be respected even when the work is humble.",
+  "character": "Caliph; gardener",
+  "chapter": "The Caliph and the Gardener",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-44-2",
+  "text": "Retrieval note for 'The Caliph and the Gardener': A caliph speaks with a gardener and the exchange highlights the dignity of honest work. The story suggests that a person's contribution should be respected even when the work is humble. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Caliph; gardener",
+  "chapter": "The Caliph and the Gardener",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-45-1",
+  "text": "In 'The Cowherd Who Became a Poet', the main figure or figures are Caedmon. Caedmon works as a cowherd at Whitby Abbey and initially cannot sing when others take turns entertaining the company. In a dream, he is told to sing about the beginning of created things. He discovers a gift for sacred poetry.",
+  "character": "Caedmon",
+  "chapter": "The Cowherd Who Became a Poet",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-45-2",
+  "text": "Retrieval note for 'The Cowherd Who Became a Poet': Caedmon works as a cowherd at Whitby Abbey and initially cannot sing when others take turns entertaining the company. In a dream, he is told to sing about the beginning of created things. He discovers a gift for sacred poetry. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Caedmon",
+  "chapter": "The Cowherd Who Became a Poet",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-46-1",
+  "text": "In 'The Lover of Men', the main figure or figures are Humanitarian figure. The story presents a person whose concern extends to other people and their welfare. It celebrates compassion, generosity, and a willingness to help beyond one's immediate circle.",
+  "character": "Humanitarian figure",
+  "chapter": "The Lover of Men",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-46-2",
+  "text": "Retrieval note for 'The Lover of Men': The story presents a person whose concern extends to other people and their welfare. It celebrates compassion, generosity, and a willingness to help beyond one's immediate circle. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Humanitarian figure",
+  "chapter": "The Lover of Men",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-47-1",
+  "text": "In 'The Charcoal Man and the King', the main figure or figures are Charcoal burner; king. A charcoal burner meets a king, and the encounter contrasts humble occupation with royal status. The story emphasizes that plain speech and sound judgment can matter more than outward rank.",
+  "character": "Charcoal burner; king",
+  "chapter": "The Charcoal Man and the King",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-47-2",
+  "text": "Retrieval note for 'The Charcoal Man and the King': A charcoal burner meets a king, and the encounter contrasts humble occupation with royal status. The story emphasizes that plain speech and sound judgment can matter more than outward rank. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Charcoal burner; king",
+  "chapter": "The Charcoal Man and the King",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-48-1",
+  "text": "In 'Which Was the King?', the main figure or figures are King; subjects. The story challenges observers to identify the king among people who appear similar. It suggests that true leadership is revealed by conduct and bearing rather than clothing alone.",
+  "character": "King; subjects",
+  "chapter": "Which Was the King?",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-48-2",
+  "text": "Retrieval note for 'Which Was the King?': The story challenges observers to identify the king among people who appear similar. It suggests that true leadership is revealed by conduct and bearing rather than clothing alone. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "King; subjects",
+  "chapter": "Which Was the King?",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-49-1",
+  "text": "In 'The Golden Tripod', the main figure or figures are Ancient Greeks. The story concerns a golden tripod and a sequence of decisions about who should receive it. The object becomes a symbol in a lesson about wisdom, honor, and the limits of material reward.",
+  "character": "Ancient Greeks",
+  "chapter": "The Golden Tripod",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-49-2",
+  "text": "Retrieval note for 'The Golden Tripod': The story concerns a golden tripod and a sequence of decisions about who should receive it. The object becomes a symbol in a lesson about wisdom, honor, and the limits of material reward. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Ancient Greeks",
+  "chapter": "The Golden Tripod",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-50-1",
+  "text": "In 'One of Aesop's Fables', the main figure or figures are Aesop; animals. The collection includes a fable attributed to Aesop. As with the other short moral tales in the volume, the fable uses a compact narrative to invite readers to draw a lesson from the characters' actions.",
+  "character": "Aesop; animals",
+  "chapter": "One of Aesop's Fables",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-50-2",
+  "text": "Retrieval note for 'One of Aesop's Fables': The collection includes a fable attributed to Aesop. As with the other short moral tales in the volume, the fable uses a compact narrative to invite readers to draw a lesson from the characters' actions. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "character": "Aesop; animals",
+  "chapter": "One of Aesop's Fables",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-01-3",
+  "text": "Theme and context in 'Saving the Birds': The story concerns Abraham Lincoln. Lincoln was riding with three other lawyers on a muddy country road after rain. They heard young robins chirping in the wet grass after falling from their nest. The other lawyers continued riding, but Lincoln stopped, gathered the birds, climbed the tree, and returned them to their nest. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "character": "Abraham Lincoln",
+  "chapter": "Saving the Birds",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-02-3",
+  "text": "Theme and context in 'Another Bird Story': The story concerns Robert E. Lee. During a battle, Robert E. Lee noticed a fallen nest containing young birds. Although cannon fire was passing nearby, he stopped, lifted the nest, and placed it safely in the fork of a tree before riding on. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "character": "Robert E. Lee",
+  "chapter": "Another Bird Story",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-03-3",
+  "text": "Theme and context in 'Speaking a Piece': The story concerns Edward Everett. As a small child, Edward Everett received a short speech from the minister Mr. Harris while walking to school with his sister. Everett learned the verses and delivered them clearly at school; the story says he later became a famous orator. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "character": "Edward Everett",
+  "chapter": "Speaking a Piece",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-04-3",
+  "text": "Theme and context in 'Writing a Composition': The story concerns Henry Wadsworth Longfellow. At Love Lane School, the teacher asked pupils to write compositions. Henry Longfellow said he did not know how to begin, so the teacher advised him to choose an object and describe what it was, what it was like, what it was good for, and how it was used. Longfellow wrote about a turnip. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "character": "Henry Wadsworth Longfellow",
+  "chapter": "Writing a Composition",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-05-3",
+  "text": "Theme and context in 'The Whistle': The story concerns Benjamin Franklin. When Benjamin Franklin was seven, his mother gave him a few pennies and warned him not to spend them foolishly. He traded all the pennies for a whistle, then learned from his family that he had paid far too much for it. He remembered the lesson about not paying too dear for a whistle. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "character": "Benjamin Franklin",
+  "chapter": "The Whistle",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-06-3",
+  "text": "Theme and context in 'The Ettrick Shepherd': The story concerns James Hogg. James Hogg worked as a shepherd near the Ettrick Water in Scotland. During a storm, his dog Sirrah gathered and guarded a flock of seven hundred lambs in a ravine. Not one lamb was missing when the shepherds found them. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "character": "James Hogg",
+  "chapter": "The Ettrick Shepherd",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-07-3",
+  "text": "Theme and context in 'The Caliph and the Poet': The story concerns Al Mansur; Thalibi. The caliph Al Mansur offered the poet Thalibi a choice between three hundred pieces of gold and three wise sayings. Thalibi chose wisdom, but the sayings disappointed him. The caliph eventually rewarded the poet with five hundred pieces of gold for his fine poem. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "character": "Al Mansur; Thalibi",
+  "chapter": "The Caliph and the Poet",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-08-3",
+  "text": "Theme and context in 'Becos! Becos! Becos!': The story concerns Psammeticus. The Egyptian king Psammeticus wanted to test whether Egyptians were the oldest people. He placed two babies with a shepherd and ordered that nobody speak in their hearing. After the children grew, they repeatedly said a word the king's investigators interpreted as the Phrygian word for bread. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "character": "Psammeticus",
+  "chapter": "Becos! Becos! Becos!",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-09-3",
+  "text": "Theme and context in 'A Lesson in Humility': The story concerns King; courtier. The story presents a ruler and a courtier in an episode intended to teach humility. Its central lesson is that status and outward importance should not make a person proud or dismissive of others. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "character": "King; courtier",
+  "chapter": "A Lesson in Humility",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-10-3",
+  "text": "Theme and context in 'The Midnight Ride': The story concerns Paul Revere. Paul Revere's midnight ride is presented as a warning journey connected with the American struggle for independence. The story emphasizes the urgency of carrying news so that people could prepare for the approaching British troops. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "character": "Paul Revere",
+  "chapter": "The Midnight Ride",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-11-3",
+  "text": "Theme and context in 'The Boy and the Wolf': The story concerns Shepherd boy. A shepherd boy repeatedly raised a false alarm about a wolf. When a wolf eventually appeared, the people no longer trusted his warning. The episode teaches that repeated lying destroys credibility. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "character": "Shepherd boy",
+  "chapter": "The Boy and the Wolf",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-12-3",
+  "text": "Theme and context in 'Another Wolf Story': The story concerns Wolf; shepherd. This story revisits the danger associated with wolves and the responsibility of people who watch over a flock. It contrasts careless claims or conduct with the need for truthful warnings and alertness. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "character": "Wolf; shepherd",
+  "chapter": "Another Wolf Story",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-13-3",
+  "text": "Theme and context in 'The Horseshoe Nails': The story concerns Farrier; traveler. The story uses a chain of small practical failures involving horseshoe nails to show how a seemingly minor omission can lead to a much larger loss. Its lesson is that attention to small details can matter greatly. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "character": "Farrier; traveler",
+  "chapter": "The Horseshoe Nails",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-14-3",
+  "text": "Theme and context in 'The Landlord's Mistake': The story concerns Landlord; guest. A landlord makes an incorrect assumption about a visitor and the mistake creates an awkward situation. The episode warns against judging people before learning the facts. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "character": "Landlord; guest",
+  "chapter": "The Landlord's Mistake",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-15-3",
+  "text": "Theme and context in 'A Lesson in Manners': The story concerns Young person; older people. The story illustrates the importance of courteous behavior in ordinary encounters. Good manners are shown through respectful speech and consideration for other people. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "character": "Young person; older people",
+  "chapter": "A Lesson in Manners",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-16-3",
+  "text": "Theme and context in 'Going to Sea': The story concerns Young sailor. A young person longs to go to sea and imagines the excitement of travel. The story contrasts romantic expectations with the demands and risks of a sailor's life. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "character": "Young sailor",
+  "chapter": "Going to Sea",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-17-3",
+  "text": "Theme and context in 'The Shepherd-Boy Painter': The story concerns Giotto; Cimabue; Bondone. A traveler and painter named Cimabue discovers the shepherd boy Giotto drawing a sheep on a rock with a charred stick. Cimabue asks Giotto's father, Bondone, for permission to teach the boy. Giotto later paints a convincing fly on Cimabue's unfinished picture. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "character": "Giotto; Cimabue; Bondone",
+  "chapter": "The Shepherd-Boy Painter",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-18-3",
+  "text": "Theme and context in 'Two Great Painters': The story concerns Zeuxis; Parrhasius. Zeuxis paints fruit so lifelike that birds try to peck it. Parrhasius paints what appears to be a curtain, and Zeuxis asks him to draw it aside. Zeuxis realizes that Parrhasius has deceived a human painter, a harder achievement than deceiving birds. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "character": "Zeuxis; Parrhasius",
+  "chapter": "Two Great Painters",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-19-3",
+  "text": "Theme and context in 'The King and the Bees': The story concerns King. A king encounters bees and learns from observing their orderly work. The story uses the bees' cooperation and industry to illustrate lessons about leadership and useful labor. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "character": "King",
+  "chapter": "The King and the Bees",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+},
+{
+  "chunk_id": "ffp-20-3",
+  "text": "Theme and context in 'Our First Great Painter': The story concerns Early painter. The story describes an early celebrated painter and the development of artistic skill. It emphasizes the lasting value of careful observation, practice, and the ability to represent the world through art. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "character": "Early painter",
+  "chapter": "Our First Great Painter",
+  "page": null,
+  "source": "https://www.gutenberg.org/cache/epub/6168/pg6168.html",
+  "embedding": null
+}
+]

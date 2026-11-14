@@ -1,1 +1,2282 @@
-[{"id":"q1","split":"dev","question":"Hoàn tiền mất bao lâu?","gold":[{"source_id":"policy-1","page":1,"evidence":"xử lý trong 7 ngày làm việc"}],"expected_answer":"7 ngày làm việc","filter":{"version":"2025"}}]
+[
+{
+  "id": "q001",
+  "split": "dev",
+  "question": "What does the text say about 'Saving the Birds'?",
+  "gold": [
+    {
+      "source_id": "ffp-01-1",
+      "page": null,
+      "evidence": "In 'Saving the Birds', the main figure or figures are Abraham Lincoln. Lincoln was riding with three other lawyers on a muddy country road after rain. They heard young robins chirping in the wet grass after falling from "
+    }
+  ],
+  "expected_answer": "In 'Saving the Birds', the main figure or figures are Abraham Lincoln. Lincoln was riding with three other lawyers on a muddy country road after rain. They heard young robins chirping in the wet grass after falling from their nest. The other lawyers continued riding, but Lincoln stopped, gathered the birds, climbed the tree, and returned them to their nest.",
+  "filter": {
+    "chapter": "Saving the Birds"
+  }
+},
+{
+  "id": "q002",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'Prefatory Note'?",
+  "gold": [
+    {
+      "source_id": "ffp-01-2",
+      "page": null,
+      "evidence": "In the prefatory note to Fifty Famous People, James Baldwin explains that the stories are not biographies, although they concern real people who lived and took part in history. He says each story has a basis of truth and"
+    }
+  ],
+  "expected_answer": "In the prefatory note to Fifty Famous People, James Baldwin explains that the stories are not biographies, although they concern real people who lived and took part in history. He says each story has a basis of truth and an ethical lesson, and that the volume includes a little more than fifty famous people.",
+  "filter": {
+    "chapter": "Prefatory Note"
+  }
+},
+{
+  "id": "q003",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'Another Bird Story'?",
+  "gold": [
+    {
+      "source_id": "ffp-02-1",
+      "page": null,
+      "evidence": "In 'Another Bird Story', the main figure or figures are Robert E. Lee. During a battle, Robert E. Lee noticed a fallen nest containing young birds. Although cannon fire was passing nearby, he stopped, lifted the nest, an"
+    }
+  ],
+  "expected_answer": "In 'Another Bird Story', the main figure or figures are Robert E. Lee. During a battle, Robert E. Lee noticed a fallen nest containing young birds. Although cannon fire was passing nearby, he stopped, lifted the nest, and placed it safely in the fork of a tree before riding on.",
+  "filter": {
+    "chapter": "Another Bird Story"
+  }
+},
+{
+  "id": "q004",
+  "split": "dev",
+  "question": "What does the text say about 'Another Bird Story'?",
+  "gold": [
+    {
+      "source_id": "ffp-02-2",
+      "page": null,
+      "evidence": "Retrieval note for 'Another Bird Story': During a battle, Robert E. Lee noticed a fallen nest containing young birds. Although cannon fire was passing nearby, he stopped, lifted the nest, and placed it safely in the fork"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'Another Bird Story': During a battle, Robert E. Lee noticed a fallen nest containing young birds. Although cannon fire was passing nearby, he stopped, lifted the nest, and placed it safely in the fork of a tree before riding on. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "Another Bird Story"
+  }
+},
+{
+  "id": "q005",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'Speaking a Piece'?",
+  "gold": [
+    {
+      "source_id": "ffp-03-1",
+      "page": null,
+      "evidence": "In 'Speaking a Piece', the main figure or figures are Edward Everett. As a small child, Edward Everett received a short speech from the minister Mr. Harris while walking to school with his sister. Everett learned the ver"
+    }
+  ],
+  "expected_answer": "In 'Speaking a Piece', the main figure or figures are Edward Everett. As a small child, Edward Everett received a short speech from the minister Mr. Harris while walking to school with his sister. Everett learned the verses and delivered them clearly at school; the story says he later became a famous orator.",
+  "filter": {
+    "chapter": "Speaking a Piece"
+  }
+},
+{
+  "id": "q006",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'Speaking a Piece'?",
+  "gold": [
+    {
+      "source_id": "ffp-03-2",
+      "page": null,
+      "evidence": "Retrieval note for 'Speaking a Piece': As a small child, Edward Everett received a short speech from the minister Mr. Harris while walking to school with his sister. Everett learned the verses and delivered them clearly "
+    }
+  ],
+  "expected_answer": "Retrieval note for 'Speaking a Piece': As a small child, Edward Everett received a short speech from the minister Mr. Harris while walking to school with his sister. Everett learned the verses and delivered them clearly at school; the story says he later became a famous orator. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "Speaking a Piece"
+  }
+},
+{
+  "id": "q007",
+  "split": "dev",
+  "question": "What does the text say about 'Writing a Composition'?",
+  "gold": [
+    {
+      "source_id": "ffp-04-1",
+      "page": null,
+      "evidence": "In 'Writing a Composition', the main figure or figures are Henry Wadsworth Longfellow. At Love Lane School, the teacher asked pupils to write compositions. Henry Longfellow said he did not know how to begin, so the teach"
+    }
+  ],
+  "expected_answer": "In 'Writing a Composition', the main figure or figures are Henry Wadsworth Longfellow. At Love Lane School, the teacher asked pupils to write compositions. Henry Longfellow said he did not know how to begin, so the teacher advised him to choose an object and describe what it was, what it was like, what it was good for, and how it was used. Longfellow wrote about a turnip.",
+  "filter": {
+    "chapter": "Writing a Composition"
+  }
+},
+{
+  "id": "q008",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'Writing a Composition'?",
+  "gold": [
+    {
+      "source_id": "ffp-04-2",
+      "page": null,
+      "evidence": "Retrieval note for 'Writing a Composition': At Love Lane School, the teacher asked pupils to write compositions. Henry Longfellow said he did not know how to begin, so the teacher advised him to choose an object and desc"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'Writing a Composition': At Love Lane School, the teacher asked pupils to write compositions. Henry Longfellow said he did not know how to begin, so the teacher advised him to choose an object and describe what it was, what it was like, what it was good for, and how it was used. Longfellow wrote about a turnip. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "Writing a Composition"
+  }
+},
+{
+  "id": "q009",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'The Whistle'?",
+  "gold": [
+    {
+      "source_id": "ffp-05-1",
+      "page": null,
+      "evidence": "In 'The Whistle', the main figure or figures are Benjamin Franklin. When Benjamin Franklin was seven, his mother gave him a few pennies and warned him not to spend them foolishly. He traded all the pennies for a whistle,"
+    }
+  ],
+  "expected_answer": "In 'The Whistle', the main figure or figures are Benjamin Franklin. When Benjamin Franklin was seven, his mother gave him a few pennies and warned him not to spend them foolishly. He traded all the pennies for a whistle, then learned from his family that he had paid far too much for it. He remembered the lesson about not paying too dear for a whistle.",
+  "filter": {
+    "chapter": "The Whistle"
+  }
+},
+{
+  "id": "q010",
+  "split": "dev",
+  "question": "What does the text say about 'The Whistle'?",
+  "gold": [
+    {
+      "source_id": "ffp-05-2",
+      "page": null,
+      "evidence": "Retrieval note for 'The Whistle': When Benjamin Franklin was seven, his mother gave him a few pennies and warned him not to spend them foolishly. He traded all the pennies for a whistle, then learned from his family that"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'The Whistle': When Benjamin Franklin was seven, his mother gave him a few pennies and warned him not to spend them foolishly. He traded all the pennies for a whistle, then learned from his family that he had paid far too much for it. He remembered the lesson about not paying too dear for a whistle. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "The Whistle"
+  }
+},
+{
+  "id": "q011",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'The Ettrick Shepherd'?",
+  "gold": [
+    {
+      "source_id": "ffp-06-1",
+      "page": null,
+      "evidence": "In 'The Ettrick Shepherd', the main figure or figures are James Hogg. James Hogg worked as a shepherd near the Ettrick Water in Scotland. During a storm, his dog Sirrah gathered and guarded a flock of seven hundred lambs"
+    }
+  ],
+  "expected_answer": "In 'The Ettrick Shepherd', the main figure or figures are James Hogg. James Hogg worked as a shepherd near the Ettrick Water in Scotland. During a storm, his dog Sirrah gathered and guarded a flock of seven hundred lambs in a ravine. Not one lamb was missing when the shepherds found them.",
+  "filter": {
+    "chapter": "The Ettrick Shepherd"
+  }
+},
+{
+  "id": "q012",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'The Ettrick Shepherd'?",
+  "gold": [
+    {
+      "source_id": "ffp-06-2",
+      "page": null,
+      "evidence": "Retrieval note for 'The Ettrick Shepherd': James Hogg worked as a shepherd near the Ettrick Water in Scotland. During a storm, his dog Sirrah gathered and guarded a flock of seven hundred lambs in a ravine. Not one lamb "
+    }
+  ],
+  "expected_answer": "Retrieval note for 'The Ettrick Shepherd': James Hogg worked as a shepherd near the Ettrick Water in Scotland. During a storm, his dog Sirrah gathered and guarded a flock of seven hundred lambs in a ravine. Not one lamb was missing when the shepherds found them. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "The Ettrick Shepherd"
+  }
+},
+{
+  "id": "q013",
+  "split": "dev",
+  "question": "What does the text say about 'The Caliph and the Poet'?",
+  "gold": [
+    {
+      "source_id": "ffp-07-1",
+      "page": null,
+      "evidence": "In 'The Caliph and the Poet', the main figure or figures are Al Mansur; Thalibi. The caliph Al Mansur offered the poet Thalibi a choice between three hundred pieces of gold and three wise sayings. Thalibi chose wisdom, b"
+    }
+  ],
+  "expected_answer": "In 'The Caliph and the Poet', the main figure or figures are Al Mansur; Thalibi. The caliph Al Mansur offered the poet Thalibi a choice between three hundred pieces of gold and three wise sayings. Thalibi chose wisdom, but the sayings disappointed him. The caliph eventually rewarded the poet with five hundred pieces of gold for his fine poem.",
+  "filter": {
+    "chapter": "The Caliph and the Poet"
+  }
+},
+{
+  "id": "q014",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'The Caliph and the Poet'?",
+  "gold": [
+    {
+      "source_id": "ffp-07-2",
+      "page": null,
+      "evidence": "Retrieval note for 'The Caliph and the Poet': The caliph Al Mansur offered the poet Thalibi a choice between three hundred pieces of gold and three wise sayings. Thalibi chose wisdom, but the sayings disappointed him. Th"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'The Caliph and the Poet': The caliph Al Mansur offered the poet Thalibi a choice between three hundred pieces of gold and three wise sayings. Thalibi chose wisdom, but the sayings disappointed him. The caliph eventually rewarded the poet with five hundred pieces of gold for his fine poem. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "The Caliph and the Poet"
+  }
+},
+{
+  "id": "q015",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'Becos! Becos! Becos!'?",
+  "gold": [
+    {
+      "source_id": "ffp-08-1",
+      "page": null,
+      "evidence": "In 'Becos! Becos! Becos!', the main figure or figures are Psammeticus. The Egyptian king Psammeticus wanted to test whether Egyptians were the oldest people. He placed two babies with a shepherd and ordered that nobody s"
+    }
+  ],
+  "expected_answer": "In 'Becos! Becos! Becos!', the main figure or figures are Psammeticus. The Egyptian king Psammeticus wanted to test whether Egyptians were the oldest people. He placed two babies with a shepherd and ordered that nobody speak in their hearing. After the children grew, they repeatedly said a word the king's investigators interpreted as the Phrygian word for bread.",
+  "filter": {
+    "chapter": "Becos! Becos! Becos!"
+  }
+},
+{
+  "id": "q016",
+  "split": "dev",
+  "question": "What does the text say about 'Becos! Becos! Becos!'?",
+  "gold": [
+    {
+      "source_id": "ffp-08-2",
+      "page": null,
+      "evidence": "Retrieval note for 'Becos! Becos! Becos!': The Egyptian king Psammeticus wanted to test whether Egyptians were the oldest people. He placed two babies with a shepherd and ordered that nobody speak in their hearing. After"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'Becos! Becos! Becos!': The Egyptian king Psammeticus wanted to test whether Egyptians were the oldest people. He placed two babies with a shepherd and ordered that nobody speak in their hearing. After the children grew, they repeatedly said a word the king's investigators interpreted as the Phrygian word for bread. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "Becos! Becos! Becos!"
+  }
+},
+{
+  "id": "q017",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'A Lesson in Humility'?",
+  "gold": [
+    {
+      "source_id": "ffp-09-1",
+      "page": null,
+      "evidence": "In 'A Lesson in Humility', the main figure or figures are King; courtier. The story presents a ruler and a courtier in an episode intended to teach humility. Its central lesson is that status and outward importance shoul"
+    }
+  ],
+  "expected_answer": "In 'A Lesson in Humility', the main figure or figures are King; courtier. The story presents a ruler and a courtier in an episode intended to teach humility. Its central lesson is that status and outward importance should not make a person proud or dismissive of others.",
+  "filter": {
+    "chapter": "A Lesson in Humility"
+  }
+},
+{
+  "id": "q018",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'A Lesson in Humility'?",
+  "gold": [
+    {
+      "source_id": "ffp-09-2",
+      "page": null,
+      "evidence": "Retrieval note for 'A Lesson in Humility': The story presents a ruler and a courtier in an episode intended to teach humility. Its central lesson is that status and outward importance should not make a person proud or di"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'A Lesson in Humility': The story presents a ruler and a courtier in an episode intended to teach humility. Its central lesson is that status and outward importance should not make a person proud or dismissive of others. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "A Lesson in Humility"
+  }
+},
+{
+  "id": "q019",
+  "split": "dev",
+  "question": "What does the text say about 'The Midnight Ride'?",
+  "gold": [
+    {
+      "source_id": "ffp-10-1",
+      "page": null,
+      "evidence": "In 'The Midnight Ride', the main figure or figures are Paul Revere. Paul Revere's midnight ride is presented as a warning journey connected with the American struggle for independence. The story emphasizes the urgency of"
+    }
+  ],
+  "expected_answer": "In 'The Midnight Ride', the main figure or figures are Paul Revere. Paul Revere's midnight ride is presented as a warning journey connected with the American struggle for independence. The story emphasizes the urgency of carrying news so that people could prepare for the approaching British troops.",
+  "filter": {
+    "chapter": "The Midnight Ride"
+  }
+},
+{
+  "id": "q020",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'The Midnight Ride'?",
+  "gold": [
+    {
+      "source_id": "ffp-10-2",
+      "page": null,
+      "evidence": "Retrieval note for 'The Midnight Ride': Paul Revere's midnight ride is presented as a warning journey connected with the American struggle for independence. The story emphasizes the urgency of carrying news so that peopl"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'The Midnight Ride': Paul Revere's midnight ride is presented as a warning journey connected with the American struggle for independence. The story emphasizes the urgency of carrying news so that people could prepare for the approaching British troops. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "The Midnight Ride"
+  }
+},
+{
+  "id": "q021",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'The Boy and the Wolf'?",
+  "gold": [
+    {
+      "source_id": "ffp-11-1",
+      "page": null,
+      "evidence": "In 'The Boy and the Wolf', the main figure or figures are Shepherd boy. A shepherd boy repeatedly raised a false alarm about a wolf. When a wolf eventually appeared, the people no longer trusted his warning. The episode "
+    }
+  ],
+  "expected_answer": "In 'The Boy and the Wolf', the main figure or figures are Shepherd boy. A shepherd boy repeatedly raised a false alarm about a wolf. When a wolf eventually appeared, the people no longer trusted his warning. The episode teaches that repeated lying destroys credibility.",
+  "filter": {
+    "chapter": "The Boy and the Wolf"
+  }
+},
+{
+  "id": "q022",
+  "split": "dev",
+  "question": "What does the text say about 'The Boy and the Wolf'?",
+  "gold": [
+    {
+      "source_id": "ffp-11-2",
+      "page": null,
+      "evidence": "Retrieval note for 'The Boy and the Wolf': A shepherd boy repeatedly raised a false alarm about a wolf. When a wolf eventually appeared, the people no longer trusted his warning. The episode teaches that repeated lying d"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'The Boy and the Wolf': A shepherd boy repeatedly raised a false alarm about a wolf. When a wolf eventually appeared, the people no longer trusted his warning. The episode teaches that repeated lying destroys credibility. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "The Boy and the Wolf"
+  }
+},
+{
+  "id": "q023",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'Another Wolf Story'?",
+  "gold": [
+    {
+      "source_id": "ffp-12-1",
+      "page": null,
+      "evidence": "In 'Another Wolf Story', the main figure or figures are Wolf; shepherd. This story revisits the danger associated with wolves and the responsibility of people who watch over a flock. It contrasts careless claims or condu"
+    }
+  ],
+  "expected_answer": "In 'Another Wolf Story', the main figure or figures are Wolf; shepherd. This story revisits the danger associated with wolves and the responsibility of people who watch over a flock. It contrasts careless claims or conduct with the need for truthful warnings and alertness.",
+  "filter": {
+    "chapter": "Another Wolf Story"
+  }
+},
+{
+  "id": "q024",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'Another Wolf Story'?",
+  "gold": [
+    {
+      "source_id": "ffp-12-2",
+      "page": null,
+      "evidence": "Retrieval note for 'Another Wolf Story': This story revisits the danger associated with wolves and the responsibility of people who watch over a flock. It contrasts careless claims or conduct with the need for truthful w"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'Another Wolf Story': This story revisits the danger associated with wolves and the responsibility of people who watch over a flock. It contrasts careless claims or conduct with the need for truthful warnings and alertness. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "Another Wolf Story"
+  }
+},
+{
+  "id": "q025",
+  "split": "dev",
+  "question": "What does the text say about 'The Horseshoe Nails'?",
+  "gold": [
+    {
+      "source_id": "ffp-13-1",
+      "page": null,
+      "evidence": "In 'The Horseshoe Nails', the main figure or figures are Farrier; traveler. The story uses a chain of small practical failures involving horseshoe nails to show how a seemingly minor omission can lead to a much larger lo"
+    }
+  ],
+  "expected_answer": "In 'The Horseshoe Nails', the main figure or figures are Farrier; traveler. The story uses a chain of small practical failures involving horseshoe nails to show how a seemingly minor omission can lead to a much larger loss. Its lesson is that attention to small details can matter greatly.",
+  "filter": {
+    "chapter": "The Horseshoe Nails"
+  }
+},
+{
+  "id": "q026",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'The Horseshoe Nails'?",
+  "gold": [
+    {
+      "source_id": "ffp-13-2",
+      "page": null,
+      "evidence": "Retrieval note for 'The Horseshoe Nails': The story uses a chain of small practical failures involving horseshoe nails to show how a seemingly minor omission can lead to a much larger loss. Its lesson is that attention t"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'The Horseshoe Nails': The story uses a chain of small practical failures involving horseshoe nails to show how a seemingly minor omission can lead to a much larger loss. Its lesson is that attention to small details can matter greatly. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "The Horseshoe Nails"
+  }
+},
+{
+  "id": "q027",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'The Landlord's Mistake'?",
+  "gold": [
+    {
+      "source_id": "ffp-14-1",
+      "page": null,
+      "evidence": "In 'The Landlord's Mistake', the main figure or figures are Landlord; guest. A landlord makes an incorrect assumption about a visitor and the mistake creates an awkward situation. The episode warns against judging people"
+    }
+  ],
+  "expected_answer": "In 'The Landlord's Mistake', the main figure or figures are Landlord; guest. A landlord makes an incorrect assumption about a visitor and the mistake creates an awkward situation. The episode warns against judging people before learning the facts.",
+  "filter": {
+    "chapter": "The Landlord's Mistake"
+  }
+},
+{
+  "id": "q028",
+  "split": "dev",
+  "question": "What does the text say about 'The Landlord's Mistake'?",
+  "gold": [
+    {
+      "source_id": "ffp-14-2",
+      "page": null,
+      "evidence": "Retrieval note for 'The Landlord's Mistake': A landlord makes an incorrect assumption about a visitor and the mistake creates an awkward situation. The episode warns against judging people before learning the facts. This"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'The Landlord's Mistake': A landlord makes an incorrect assumption about a visitor and the mistake creates an awkward situation. The episode warns against judging people before learning the facts. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "The Landlord's Mistake"
+  }
+},
+{
+  "id": "q029",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'A Lesson in Manners'?",
+  "gold": [
+    {
+      "source_id": "ffp-15-1",
+      "page": null,
+      "evidence": "In 'A Lesson in Manners', the main figure or figures are Young person; older people. The story illustrates the importance of courteous behavior in ordinary encounters. Good manners are shown through respectful speech and"
+    }
+  ],
+  "expected_answer": "In 'A Lesson in Manners', the main figure or figures are Young person; older people. The story illustrates the importance of courteous behavior in ordinary encounters. Good manners are shown through respectful speech and consideration for other people.",
+  "filter": {
+    "chapter": "A Lesson in Manners"
+  }
+},
+{
+  "id": "q030",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'A Lesson in Manners'?",
+  "gold": [
+    {
+      "source_id": "ffp-15-2",
+      "page": null,
+      "evidence": "Retrieval note for 'A Lesson in Manners': The story illustrates the importance of courteous behavior in ordinary encounters. Good manners are shown through respectful speech and consideration for other people. This passa"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'A Lesson in Manners': The story illustrates the importance of courteous behavior in ordinary encounters. Good manners are shown through respectful speech and consideration for other people. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "A Lesson in Manners"
+  }
+},
+{
+  "id": "q031",
+  "split": "dev",
+  "question": "What does the text say about 'Going to Sea'?",
+  "gold": [
+    {
+      "source_id": "ffp-16-1",
+      "page": null,
+      "evidence": "In 'Going to Sea', the main figure or figures are Young sailor. A young person longs to go to sea and imagines the excitement of travel. The story contrasts romantic expectations with the demands and risks of a sailor's "
+    }
+  ],
+  "expected_answer": "In 'Going to Sea', the main figure or figures are Young sailor. A young person longs to go to sea and imagines the excitement of travel. The story contrasts romantic expectations with the demands and risks of a sailor's life.",
+  "filter": {
+    "chapter": "Going to Sea"
+  }
+},
+{
+  "id": "q032",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'Going to Sea'?",
+  "gold": [
+    {
+      "source_id": "ffp-16-2",
+      "page": null,
+      "evidence": "Retrieval note for 'Going to Sea': A young person longs to go to sea and imagines the excitement of travel. The story contrasts romantic expectations with the demands and risks of a sailor's life. This passage identifies"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'Going to Sea': A young person longs to go to sea and imagines the excitement of travel. The story contrasts romantic expectations with the demands and risks of a sailor's life. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "Going to Sea"
+  }
+},
+{
+  "id": "q033",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'The Shepherd-Boy Painter'?",
+  "gold": [
+    {
+      "source_id": "ffp-17-1",
+      "page": null,
+      "evidence": "In 'The Shepherd-Boy Painter', the main figure or figures are Giotto; Cimabue; Bondone. A traveler and painter named Cimabue discovers the shepherd boy Giotto drawing a sheep on a rock with a charred stick. Cimabue asks "
+    }
+  ],
+  "expected_answer": "In 'The Shepherd-Boy Painter', the main figure or figures are Giotto; Cimabue; Bondone. A traveler and painter named Cimabue discovers the shepherd boy Giotto drawing a sheep on a rock with a charred stick. Cimabue asks Giotto's father, Bondone, for permission to teach the boy. Giotto later paints a convincing fly on Cimabue's unfinished picture.",
+  "filter": {
+    "chapter": "The Shepherd-Boy Painter"
+  }
+},
+{
+  "id": "q034",
+  "split": "dev",
+  "question": "What does the text say about 'The Shepherd-Boy Painter'?",
+  "gold": [
+    {
+      "source_id": "ffp-17-2",
+      "page": null,
+      "evidence": "Retrieval note for 'The Shepherd-Boy Painter': A traveler and painter named Cimabue discovers the shepherd boy Giotto drawing a sheep on a rock with a charred stick. Cimabue asks Giotto's father, Bondone, for permission "
+    }
+  ],
+  "expected_answer": "Retrieval note for 'The Shepherd-Boy Painter': A traveler and painter named Cimabue discovers the shepherd boy Giotto drawing a sheep on a rock with a charred stick. Cimabue asks Giotto's father, Bondone, for permission to teach the boy. Giotto later paints a convincing fly on Cimabue's unfinished picture. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "The Shepherd-Boy Painter"
+  }
+},
+{
+  "id": "q035",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'Two Great Painters'?",
+  "gold": [
+    {
+      "source_id": "ffp-18-1",
+      "page": null,
+      "evidence": "In 'Two Great Painters', the main figure or figures are Zeuxis; Parrhasius. Zeuxis paints fruit so lifelike that birds try to peck it. Parrhasius paints what appears to be a curtain, and Zeuxis asks him to draw it aside."
+    }
+  ],
+  "expected_answer": "In 'Two Great Painters', the main figure or figures are Zeuxis; Parrhasius. Zeuxis paints fruit so lifelike that birds try to peck it. Parrhasius paints what appears to be a curtain, and Zeuxis asks him to draw it aside. Zeuxis realizes that Parrhasius has deceived a human painter, a harder achievement than deceiving birds.",
+  "filter": {
+    "chapter": "Two Great Painters"
+  }
+},
+{
+  "id": "q036",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'Two Great Painters'?",
+  "gold": [
+    {
+      "source_id": "ffp-18-2",
+      "page": null,
+      "evidence": "Retrieval note for 'Two Great Painters': Zeuxis paints fruit so lifelike that birds try to peck it. Parrhasius paints what appears to be a curtain, and Zeuxis asks him to draw it aside. Zeuxis realizes that Parrhasius ha"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'Two Great Painters': Zeuxis paints fruit so lifelike that birds try to peck it. Parrhasius paints what appears to be a curtain, and Zeuxis asks him to draw it aside. Zeuxis realizes that Parrhasius has deceived a human painter, a harder achievement than deceiving birds. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "Two Great Painters"
+  }
+},
+{
+  "id": "q037",
+  "split": "dev",
+  "question": "What does the text say about 'The King and the Bees'?",
+  "gold": [
+    {
+      "source_id": "ffp-19-1",
+      "page": null,
+      "evidence": "In 'The King and the Bees', the main figure or figures are King. A king encounters bees and learns from observing their orderly work. The story uses the bees' cooperation and industry to illustrate lessons about leadersh"
+    }
+  ],
+  "expected_answer": "In 'The King and the Bees', the main figure or figures are King. A king encounters bees and learns from observing their orderly work. The story uses the bees' cooperation and industry to illustrate lessons about leadership and useful labor.",
+  "filter": {
+    "chapter": "The King and the Bees"
+  }
+},
+{
+  "id": "q038",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'The King and the Bees'?",
+  "gold": [
+    {
+      "source_id": "ffp-19-2",
+      "page": null,
+      "evidence": "Retrieval note for 'The King and the Bees': A king encounters bees and learns from observing their orderly work. The story uses the bees' cooperation and industry to illustrate lessons about leadership and useful labor. "
+    }
+  ],
+  "expected_answer": "Retrieval note for 'The King and the Bees': A king encounters bees and learns from observing their orderly work. The story uses the bees' cooperation and industry to illustrate lessons about leadership and useful labor. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "The King and the Bees"
+  }
+},
+{
+  "id": "q039",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'Our First Great Painter'?",
+  "gold": [
+    {
+      "source_id": "ffp-20-1",
+      "page": null,
+      "evidence": "In 'Our First Great Painter', the main figure or figures are Early painter. The story describes an early celebrated painter and the development of artistic skill. It emphasizes the lasting value of careful observation, p"
+    }
+  ],
+  "expected_answer": "In 'Our First Great Painter', the main figure or figures are Early painter. The story describes an early celebrated painter and the development of artistic skill. It emphasizes the lasting value of careful observation, practice, and the ability to represent the world through art.",
+  "filter": {
+    "chapter": "Our First Great Painter"
+  }
+},
+{
+  "id": "q040",
+  "split": "dev",
+  "question": "What does the text say about 'Our First Great Painter'?",
+  "gold": [
+    {
+      "source_id": "ffp-20-2",
+      "page": null,
+      "evidence": "Retrieval note for 'Our First Great Painter': The story describes an early celebrated painter and the development of artistic skill. It emphasizes the lasting value of careful observation, practice, and the ability to re"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'Our First Great Painter': The story describes an early celebrated painter and the development of artistic skill. It emphasizes the lasting value of careful observation, practice, and the ability to represent the world through art. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "Our First Great Painter"
+  }
+},
+{
+  "id": "q041",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'The Young Scout'?",
+  "gold": [
+    {
+      "source_id": "ffp-21-1",
+      "page": null,
+      "evidence": "In 'The Young Scout', the main figure or figures are Andrew Jackson. Andrew Jackson was a boy in South Carolina when the Revolutionary War reached his region. After the British took Charleston, thirteen-year-old Jackson "
+    }
+  ],
+  "expected_answer": "In 'The Young Scout', the main figure or figures are Andrew Jackson. Andrew Jackson was a boy in South Carolina when the Revolutionary War reached his region. After the British took Charleston, thirteen-year-old Jackson left home to help the American cause as a scout. He later became a military leader and president.",
+  "filter": {
+    "chapter": "The Young Scout"
+  }
+},
+{
+  "id": "q042",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'The Young Scout'?",
+  "gold": [
+    {
+      "source_id": "ffp-21-2",
+      "page": null,
+      "evidence": "Retrieval note for 'The Young Scout': Andrew Jackson was a boy in South Carolina when the Revolutionary War reached his region. After the British took Charleston, thirteen-year-old Jackson left home to help the American "
+    }
+  ],
+  "expected_answer": "Retrieval note for 'The Young Scout': Andrew Jackson was a boy in South Carolina when the Revolutionary War reached his region. After the British took Charleston, thirteen-year-old Jackson left home to help the American cause as a scout. He later became a military leader and president. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "The Young Scout"
+  }
+},
+{
+  "id": "q043",
+  "split": "dev",
+  "question": "What does the text say about 'The Lad Who Rode Sidesaddle'?",
+  "gold": [
+    {
+      "source_id": "ffp-22-1",
+      "page": null,
+      "evidence": "In 'The Lad Who Rode Sidesaddle', the main figure or figures are Daniel Webster. Daniel Webster's father took him on a long horseback journey to Exeter so he could attend an academy. Webster rode an old gray horse fitted"
+    }
+  ],
+  "expected_answer": "In 'The Lad Who Rode Sidesaddle', the main figure or figures are Daniel Webster. Daniel Webster's father took him on a long horseback journey to Exeter so he could attend an academy. Webster rode an old gray horse fitted with a lady's sidesaddle. The unusual arrangement did not prevent him from reaching school and pursuing his education.",
+  "filter": {
+    "chapter": "The Lad Who Rode Sidesaddle"
+  }
+},
+{
+  "id": "q044",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'The Lad Who Rode Sidesaddle'?",
+  "gold": [
+    {
+      "source_id": "ffp-22-2",
+      "page": null,
+      "evidence": "Retrieval note for 'The Lad Who Rode Sidesaddle': Daniel Webster's father took him on a long horseback journey to Exeter so he could attend an academy. Webster rode an old gray horse fitted with a lady's sidesaddle. The "
+    }
+  ],
+  "expected_answer": "Retrieval note for 'The Lad Who Rode Sidesaddle': Daniel Webster's father took him on a long horseback journey to Exeter so he could attend an academy. Webster rode an old gray horse fitted with a lady's sidesaddle. The unusual arrangement did not prevent him from reaching school and pursuing his education. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "The Lad Who Rode Sidesaddle"
+  }
+},
+{
+  "id": "q045",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'The Whisperers'?",
+  "gold": [
+    {
+      "source_id": "ffp-23-1",
+      "page": null,
+      "evidence": "In 'The Whisperers', the main figure or figures are Whisperers. The story concerns people who communicate in whispers and the effects of secretive talk. It highlights how rumors and private speech can influence what peop"
+    }
+  ],
+  "expected_answer": "In 'The Whisperers', the main figure or figures are Whisperers. The story concerns people who communicate in whispers and the effects of secretive talk. It highlights how rumors and private speech can influence what people believe about others.",
+  "filter": {
+    "chapter": "The Whisperers"
+  }
+},
+{
+  "id": "q046",
+  "split": "dev",
+  "question": "What does the text say about 'The Whisperers'?",
+  "gold": [
+    {
+      "source_id": "ffp-23-2",
+      "page": null,
+      "evidence": "Retrieval note for 'The Whisperers': The story concerns people who communicate in whispers and the effects of secretive talk. It highlights how rumors and private speech can influence what people believe about others. Th"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'The Whisperers': The story concerns people who communicate in whispers and the effects of secretive talk. It highlights how rumors and private speech can influence what people believe about others. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "The Whisperers"
+  }
+},
+{
+  "id": "q047",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'How a Prince Learned to Read'?",
+  "gold": [
+    {
+      "source_id": "ffp-24-1",
+      "page": null,
+      "evidence": "In 'How a Prince Learned to Read', the main figure or figures are Prince. A prince is taught to read, showing that learning requires effort even for someone born to high rank. The story treats literacy and education as v"
+    }
+  ],
+  "expected_answer": "In 'How a Prince Learned to Read', the main figure or figures are Prince. A prince is taught to read, showing that learning requires effort even for someone born to high rank. The story treats literacy and education as valuable accomplishments rather than privileges that come automatically with status.",
+  "filter": {
+    "chapter": "How a Prince Learned to Read"
+  }
+},
+{
+  "id": "q048",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'How a Prince Learned to Read'?",
+  "gold": [
+    {
+      "source_id": "ffp-24-2",
+      "page": null,
+      "evidence": "Retrieval note for 'How a Prince Learned to Read': A prince is taught to read, showing that learning requires effort even for someone born to high rank. The story treats literacy and education as valuable accomplishments"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'How a Prince Learned to Read': A prince is taught to read, showing that learning requires effort even for someone born to high rank. The story treats literacy and education as valuable accomplishments rather than privileges that come automatically with status. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "How a Prince Learned to Read"
+  }
+},
+{
+  "id": "q049",
+  "split": "dev",
+  "question": "What does the text say about 'Read, and You Will Know'?",
+  "gold": [
+    {
+      "source_id": "ffp-25-1",
+      "page": null,
+      "evidence": "In 'Read, and You Will Know', the main figure or figures are Learner; teacher. The story encourages a young learner to read in order to gain knowledge. Its central idea is that reading opens access to information and und"
+    }
+  ],
+  "expected_answer": "In 'Read, and You Will Know', the main figure or figures are Learner; teacher. The story encourages a young learner to read in order to gain knowledge. Its central idea is that reading opens access to information and understanding that cannot be gained by refusing to learn.",
+  "filter": {
+    "chapter": "Read, and You Will Know"
+  }
+},
+{
+  "id": "q050",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'Read, and You Will Know'?",
+  "gold": [
+    {
+      "source_id": "ffp-25-2",
+      "page": null,
+      "evidence": "Retrieval note for 'Read, and You Will Know': The story encourages a young learner to read in order to gain knowledge. Its central idea is that reading opens access to information and understanding that cannot be gained "
+    }
+  ],
+  "expected_answer": "Retrieval note for 'Read, and You Will Know': The story encourages a young learner to read in order to gain knowledge. Its central idea is that reading opens access to information and understanding that cannot be gained by refusing to learn. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "Read, and You Will Know"
+  }
+},
+{
+  "id": "q051",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'The Young Cupbearer'?",
+  "gold": [
+    {
+      "source_id": "ffp-26-1",
+      "page": null,
+      "evidence": "In 'The Young Cupbearer', the main figure or figures are Young cupbearer. A young cupbearer serves in a royal setting and faces a test of character. The episode emphasizes attentiveness, self-control, and the responsibil"
+    }
+  ],
+  "expected_answer": "In 'The Young Cupbearer', the main figure or figures are Young cupbearer. A young cupbearer serves in a royal setting and faces a test of character. The episode emphasizes attentiveness, self-control, and the responsibilities that accompany a position of trust.",
+  "filter": {
+    "chapter": "The Young Cupbearer"
+  }
+},
+{
+  "id": "q052",
+  "split": "dev",
+  "question": "What does the text say about 'The Young Cupbearer'?",
+  "gold": [
+    {
+      "source_id": "ffp-26-2",
+      "page": null,
+      "evidence": "Retrieval note for 'The Young Cupbearer': A young cupbearer serves in a royal setting and faces a test of character. The episode emphasizes attentiveness, self-control, and the responsibilities that accompany a position "
+    }
+  ],
+  "expected_answer": "Retrieval note for 'The Young Cupbearer': A young cupbearer serves in a royal setting and faces a test of character. The episode emphasizes attentiveness, self-control, and the responsibilities that accompany a position of trust. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "The Young Cupbearer"
+  }
+},
+{
+  "id": "q053",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'The Sons of the Caliph'?",
+  "gold": [
+    {
+      "source_id": "ffp-27-1",
+      "page": null,
+      "evidence": "In 'The Sons of the Caliph', the main figure or figures are Sons of a caliph. The story compares the conduct of the caliph's sons and draws a lesson about character and responsibility. Being born into a powerful family d"
+    }
+  ],
+  "expected_answer": "In 'The Sons of the Caliph', the main figure or figures are Sons of a caliph. The story compares the conduct of the caliph's sons and draws a lesson about character and responsibility. Being born into a powerful family does not by itself make a person wise or worthy.",
+  "filter": {
+    "chapter": "The Sons of the Caliph"
+  }
+},
+{
+  "id": "q054",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'The Sons of the Caliph'?",
+  "gold": [
+    {
+      "source_id": "ffp-27-2",
+      "page": null,
+      "evidence": "Retrieval note for 'The Sons of the Caliph': The story compares the conduct of the caliph's sons and draws a lesson about character and responsibility. Being born into a powerful family does not by itself make a person w"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'The Sons of the Caliph': The story compares the conduct of the caliph's sons and draws a lesson about character and responsibility. Being born into a powerful family does not by itself make a person wise or worthy. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "The Sons of the Caliph"
+  }
+},
+{
+  "id": "q055",
+  "split": "dev",
+  "question": "What does the text say about 'The Boy and the Robbers'?",
+  "gold": [
+    {
+      "source_id": "ffp-28-1",
+      "page": null,
+      "evidence": "In 'The Boy and the Robbers', the main figure or figures are Boy; robbers. A boy encounters robbers while traveling. His response demonstrates that courage and honesty can be more valuable than possessions, and the story"
+    }
+  ],
+  "expected_answer": "In 'The Boy and the Robbers', the main figure or figures are Boy; robbers. A boy encounters robbers while traveling. His response demonstrates that courage and honesty can be more valuable than possessions, and the story turns on the contrast between the boy's conduct and the robbers' expectations.",
+  "filter": {
+    "chapter": "The Boy and the Robbers"
+  }
+},
+{
+  "id": "q056",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'The Boy and the Robbers'?",
+  "gold": [
+    {
+      "source_id": "ffp-28-2",
+      "page": null,
+      "evidence": "Retrieval note for 'The Boy and the Robbers': A boy encounters robbers while traveling. His response demonstrates that courage and honesty can be more valuable than possessions, and the story turns on the contrast betwee"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'The Boy and the Robbers': A boy encounters robbers while traveling. His response demonstrates that courage and honesty can be more valuable than possessions, and the story turns on the contrast between the boy's conduct and the robbers' expectations. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "The Boy and the Robbers"
+  }
+},
+{
+  "id": "q057",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'A Lesson in Justice'?",
+  "gold": [
+    {
+      "source_id": "ffp-29-1",
+      "page": null,
+      "evidence": "In 'A Lesson in Justice', the main figure or figures are Judge; disputants. The story presents a dispute in which a decision must be made fairly. It stresses that justice requires attention to the facts and impartial tre"
+    }
+  ],
+  "expected_answer": "In 'A Lesson in Justice', the main figure or figures are Judge; disputants. The story presents a dispute in which a decision must be made fairly. It stresses that justice requires attention to the facts and impartial treatment rather than favoritism.",
+  "filter": {
+    "chapter": "A Lesson in Justice"
+  }
+},
+{
+  "id": "q058",
+  "split": "dev",
+  "question": "What does the text say about 'A Lesson in Justice'?",
+  "gold": [
+    {
+      "source_id": "ffp-29-2",
+      "page": null,
+      "evidence": "Retrieval note for 'A Lesson in Justice': The story presents a dispute in which a decision must be made fairly. It stresses that justice requires attention to the facts and impartial treatment rather than favoritism. Thi"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'A Lesson in Justice': The story presents a dispute in which a decision must be made fairly. It stresses that justice requires attention to the facts and impartial treatment rather than favoritism. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "A Lesson in Justice"
+  }
+},
+{
+  "id": "q059",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'The General and the Fox'?",
+  "gold": [
+    {
+      "source_id": "ffp-30-1",
+      "page": null,
+      "evidence": "In 'The General and the Fox', the main figure or figures are General; fox. A general encounters a fox and the episode uses the animal's behavior to make a point about caution and cleverness. The story invites readers to "
+    }
+  ],
+  "expected_answer": "In 'The General and the Fox', the main figure or figures are General; fox. A general encounters a fox and the episode uses the animal's behavior to make a point about caution and cleverness. The story invites readers to observe before acting.",
+  "filter": {
+    "chapter": "The General and the Fox"
+  }
+},
+{
+  "id": "q060",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'The General and the Fox'?",
+  "gold": [
+    {
+      "source_id": "ffp-30-2",
+      "page": null,
+      "evidence": "Retrieval note for 'The General and the Fox': A general encounters a fox and the episode uses the animal's behavior to make a point about caution and cleverness. The story invites readers to observe before acting. This p"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'The General and the Fox': A general encounters a fox and the episode uses the animal's behavior to make a point about caution and cleverness. The story invites readers to observe before acting. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "The General and the Fox"
+  }
+},
+{
+  "id": "q061",
+  "split": "dev",
+  "question": "What does the text say about 'The Bomb'?",
+  "gold": [
+    {
+      "source_id": "ffp-31-1",
+      "page": null,
+      "evidence": "In 'The Bomb', the main figure or figures are Historical figures. The story describes a dangerous explosive incident and the people affected by it. It focuses on the consequences of danger and the importance of courage i"
+    }
+  ],
+  "expected_answer": "In 'The Bomb', the main figure or figures are Historical figures. The story describes a dangerous explosive incident and the people affected by it. It focuses on the consequences of danger and the importance of courage in a threatening situation.",
+  "filter": {
+    "chapter": "The Bomb"
+  }
+},
+{
+  "id": "q062",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'The Bomb'?",
+  "gold": [
+    {
+      "source_id": "ffp-31-2",
+      "page": null,
+      "evidence": "Retrieval note for 'The Bomb': The story describes a dangerous explosive incident and the people affected by it. It focuses on the consequences of danger and the importance of courage in a threatening situation. This pas"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'The Bomb': The story describes a dangerous explosive incident and the people affected by it. It focuses on the consequences of danger and the importance of courage in a threatening situation. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "The Bomb"
+  }
+},
+{
+  "id": "q063",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'A Story of Old Rome'?",
+  "gold": [
+    {
+      "source_id": "ffp-32-1",
+      "page": null,
+      "evidence": "In 'A Story of Old Rome', the main figure or figures are Roman figure. Set in ancient Rome, this story recalls an episode from Roman history and uses the conduct of its central figure to illustrate public duty and person"
+    }
+  ],
+  "expected_answer": "In 'A Story of Old Rome', the main figure or figures are Roman figure. Set in ancient Rome, this story recalls an episode from Roman history and uses the conduct of its central figure to illustrate public duty and personal character.",
+  "filter": {
+    "chapter": "A Story of Old Rome"
+  }
+},
+{
+  "id": "q064",
+  "split": "dev",
+  "question": "What does the text say about 'A Story of Old Rome'?",
+  "gold": [
+    {
+      "source_id": "ffp-32-2",
+      "page": null,
+      "evidence": "Retrieval note for 'A Story of Old Rome': Set in ancient Rome, this story recalls an episode from Roman history and uses the conduct of its central figure to illustrate public duty and personal character. This passage id"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'A Story of Old Rome': Set in ancient Rome, this story recalls an episode from Roman history and uses the conduct of its central figure to illustrate public duty and personal character. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "A Story of Old Rome"
+  }
+},
+{
+  "id": "q065",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'Saved by a Dolphin'?",
+  "gold": [
+    {
+      "source_id": "ffp-33-1",
+      "page": null,
+      "evidence": "In 'Saved by a Dolphin', the main figure or figures are Arion. Arion, a celebrated musician from Corinth, travels to Italy and earns money by performing. Sailors on his homeward voyage plot to take his wealth; Arion asks"
+    }
+  ],
+  "expected_answer": "In 'Saved by a Dolphin', the main figure or figures are Arion. Arion, a celebrated musician from Corinth, travels to Italy and earns money by performing. Sailors on his homeward voyage plot to take his wealth; Arion asks to sing before being thrown into the sea, and a dolphin carries him to safety.",
+  "filter": {
+    "chapter": "Saved by a Dolphin"
+  }
+},
+{
+  "id": "q066",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'Saved by a Dolphin'?",
+  "gold": [
+    {
+      "source_id": "ffp-33-2",
+      "page": null,
+      "evidence": "Retrieval note for 'Saved by a Dolphin': Arion, a celebrated musician from Corinth, travels to Italy and earns money by performing. Sailors on his homeward voyage plot to take his wealth; Arion asks to sing before being "
+    }
+  ],
+  "expected_answer": "Retrieval note for 'Saved by a Dolphin': Arion, a celebrated musician from Corinth, travels to Italy and earns money by performing. Sailors on his homeward voyage plot to take his wealth; Arion asks to sing before being thrown into the sea, and a dolphin carries him to safety. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "Saved by a Dolphin"
+  }
+},
+{
+  "id": "q067",
+  "split": "dev",
+  "question": "What does the text say about 'Little Brothers of the Air'?",
+  "gold": [
+    {
+      "source_id": "ffp-34-1",
+      "page": null,
+      "evidence": "In 'Little Brothers of the Air', the main figure or figures are Birds; people. The story asks readers to regard birds as fellow creatures deserving kindness. It emphasizes care for living things and the idea that humans "
+    }
+  ],
+  "expected_answer": "In 'Little Brothers of the Air', the main figure or figures are Birds; people. The story asks readers to regard birds as fellow creatures deserving kindness. It emphasizes care for living things and the idea that humans should not treat small creatures cruelly.",
+  "filter": {
+    "chapter": "Little Brothers of the Air"
+  }
+},
+{
+  "id": "q068",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'Little Brothers of the Air'?",
+  "gold": [
+    {
+      "source_id": "ffp-34-2",
+      "page": null,
+      "evidence": "Retrieval note for 'Little Brothers of the Air': The story asks readers to regard birds as fellow creatures deserving kindness. It emphasizes care for living things and the idea that humans should not treat small creatur"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'Little Brothers of the Air': The story asks readers to regard birds as fellow creatures deserving kindness. It emphasizes care for living things and the idea that humans should not treat small creatures cruelly. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "Little Brothers of the Air"
+  }
+},
+{
+  "id": "q069",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'A Clever Slave'?",
+  "gold": [
+    {
+      "source_id": "ffp-35-1",
+      "page": null,
+      "evidence": "In 'A Clever Slave', the main figure or figures are Slave; master. A slave uses intelligence to respond to a difficult situation. The story shows that quick thinking and practical wisdom can be found in people regardless"
+    }
+  ],
+  "expected_answer": "In 'A Clever Slave', the main figure or figures are Slave; master. A slave uses intelligence to respond to a difficult situation. The story shows that quick thinking and practical wisdom can be found in people regardless of their social position.",
+  "filter": {
+    "chapter": "A Clever Slave"
+  }
+},
+{
+  "id": "q070",
+  "split": "dev",
+  "question": "What does the text say about 'A Clever Slave'?",
+  "gold": [
+    {
+      "source_id": "ffp-35-2",
+      "page": null,
+      "evidence": "Retrieval note for 'A Clever Slave': A slave uses intelligence to respond to a difficult situation. The story shows that quick thinking and practical wisdom can be found in people regardless of their social position. Thi"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'A Clever Slave': A slave uses intelligence to respond to a difficult situation. The story shows that quick thinking and practical wisdom can be found in people regardless of their social position. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "A Clever Slave"
+  }
+},
+{
+  "id": "q071",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'The Dark Day'?",
+  "gold": [
+    {
+      "source_id": "ffp-36-1",
+      "page": null,
+      "evidence": "In 'The Dark Day', the main figure or figures are Historical observers. The story recounts an unusually dark day that caused people to wonder what was happening. It shows how unfamiliar natural events can produce fear wh"
+    }
+  ],
+  "expected_answer": "In 'The Dark Day', the main figure or figures are Historical observers. The story recounts an unusually dark day that caused people to wonder what was happening. It shows how unfamiliar natural events can produce fear when people lack an explanation.",
+  "filter": {
+    "chapter": "The Dark Day"
+  }
+},
+{
+  "id": "q072",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'The Dark Day'?",
+  "gold": [
+    {
+      "source_id": "ffp-36-2",
+      "page": null,
+      "evidence": "Retrieval note for 'The Dark Day': The story recounts an unusually dark day that caused people to wonder what was happening. It shows how unfamiliar natural events can produce fear when people lack an explanation. This p"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'The Dark Day': The story recounts an unusually dark day that caused people to wonder what was happening. It shows how unfamiliar natural events can produce fear when people lack an explanation. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "The Dark Day"
+  }
+},
+{
+  "id": "q073",
+  "split": "dev",
+  "question": "What does the text say about 'The Surly Guest'?",
+  "gold": [
+    {
+      "source_id": "ffp-37-1",
+      "page": null,
+      "evidence": "In 'The Surly Guest', the main figure or figures are John Randolph; innkeeper. John Randolph asks an innkeeper for directions but responds rudely when the innkeeper asks about his travel plans. After Randolph reaches a f"
+    }
+  ],
+  "expected_answer": "In 'The Surly Guest', the main figure or figures are John Randolph; innkeeper. John Randolph asks an innkeeper for directions but responds rudely when the innkeeper asks about his travel plans. After Randolph reaches a fork in the road, the innkeeper refuses to help further, and Randolph takes the wrong road.",
+  "filter": {
+    "chapter": "The Surly Guest"
+  }
+},
+{
+  "id": "q074",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'The Surly Guest'?",
+  "gold": [
+    {
+      "source_id": "ffp-37-2",
+      "page": null,
+      "evidence": "Retrieval note for 'The Surly Guest': John Randolph asks an innkeeper for directions but responds rudely when the innkeeper asks about his travel plans. After Randolph reaches a fork in the road, the innkeeper refuses to"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'The Surly Guest': John Randolph asks an innkeeper for directions but responds rudely when the innkeeper asks about his travel plans. After Randolph reaches a fork in the road, the innkeeper refuses to help further, and Randolph takes the wrong road. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "The Surly Guest"
+  }
+},
+{
+  "id": "q075",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'The Story of a Great Story'?",
+  "gold": [
+    {
+      "source_id": "ffp-38-1",
+      "page": null,
+      "evidence": "In 'The Story of a Great Story', the main figure or figures are Alexander Selkirk; Daniel Defoe. Alexander Selkirk is left on Juan Fernandez island after quarrelling with his shipmates. He survives alone for four years a"
+    }
+  ],
+  "expected_answer": "In 'The Story of a Great Story', the main figure or figures are Alexander Selkirk; Daniel Defoe. Alexander Selkirk is left on Juan Fernandez island after quarrelling with his shipmates. He survives alone for four years and four months before being rescued. Daniel Defoe later uses Selkirk's experience as an inspiration for Robinson Crusoe.",
+  "filter": {
+    "chapter": "The Story of a Great Story"
+  }
+},
+{
+  "id": "q076",
+  "split": "dev",
+  "question": "What does the text say about 'The Story of a Great Story'?",
+  "gold": [
+    {
+      "source_id": "ffp-38-2",
+      "page": null,
+      "evidence": "Retrieval note for 'The Story of a Great Story': Alexander Selkirk is left on Juan Fernandez island after quarrelling with his shipmates. He survives alone for four years and four months before being rescued. Daniel Defo"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'The Story of a Great Story': Alexander Selkirk is left on Juan Fernandez island after quarrelling with his shipmates. He survives alone for four years and four months before being rescued. Daniel Defoe later uses Selkirk's experience as an inspiration for Robinson Crusoe. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "The Story of a Great Story"
+  }
+},
+{
+  "id": "q077",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'The King and the Page'?",
+  "gold": [
+    {
+      "source_id": "ffp-39-1",
+      "page": null,
+      "evidence": "In 'The King and the Page', the main figure or figures are King; page. A king interacts with a page whose conduct reveals a lesson about loyalty and character. The story suggests that a person's worth is shown by actions"
+    }
+  ],
+  "expected_answer": "In 'The King and the Page', the main figure or figures are King; page. A king interacts with a page whose conduct reveals a lesson about loyalty and character. The story suggests that a person's worth is shown by actions, not merely by rank.",
+  "filter": {
+    "chapter": "The King and the Page"
+  }
+},
+{
+  "id": "q078",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'The King and the Page'?",
+  "gold": [
+    {
+      "source_id": "ffp-39-2",
+      "page": null,
+      "evidence": "Retrieval note for 'The King and the Page': A king interacts with a page whose conduct reveals a lesson about loyalty and character. The story suggests that a person's worth is shown by actions, not merely by rank. This "
+    }
+  ],
+  "expected_answer": "Retrieval note for 'The King and the Page': A king interacts with a page whose conduct reveals a lesson about loyalty and character. The story suggests that a person's worth is shown by actions, not merely by rank. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "The King and the Page"
+  }
+},
+{
+  "id": "q079",
+  "split": "dev",
+  "question": "What does the text say about 'The Hunted King'?",
+  "gold": [
+    {
+      "source_id": "ffp-40-1",
+      "page": null,
+      "evidence": "In 'The Hunted King', the main figure or figures are King. A king is pursued and must rely on judgment and assistance to escape danger. The story explores the vulnerability of even powerful people when circumstances turn"
+    }
+  ],
+  "expected_answer": "In 'The Hunted King', the main figure or figures are King. A king is pursued and must rely on judgment and assistance to escape danger. The story explores the vulnerability of even powerful people when circumstances turn against them.",
+  "filter": {
+    "chapter": "The Hunted King"
+  }
+},
+{
+  "id": "q080",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'The Hunted King'?",
+  "gold": [
+    {
+      "source_id": "ffp-40-2",
+      "page": null,
+      "evidence": "Retrieval note for 'The Hunted King': A king is pursued and must rely on judgment and assistance to escape danger. The story explores the vulnerability of even powerful people when circumstances turn against them. This p"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'The Hunted King': A king is pursued and must rely on judgment and assistance to escape danger. The story explores the vulnerability of even powerful people when circumstances turn against them. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "The Hunted King"
+  }
+},
+{
+  "id": "q081",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'Try, Try Again!'?",
+  "gold": [
+    {
+      "source_id": "ffp-41-1",
+      "page": null,
+      "evidence": "In 'Try, Try Again!', the main figure or figures are Persevering learner. The story follows a person who continues trying after repeated failure. Its lesson is that persistence and repeated effort can lead to success whe"
+    }
+  ],
+  "expected_answer": "In 'Try, Try Again!', the main figure or figures are Persevering learner. The story follows a person who continues trying after repeated failure. Its lesson is that persistence and repeated effort can lead to success where giving up would guarantee defeat.",
+  "filter": {
+    "chapter": "Try, Try Again!"
+  }
+},
+{
+  "id": "q082",
+  "split": "dev",
+  "question": "What does the text say about 'Try, Try Again!'?",
+  "gold": [
+    {
+      "source_id": "ffp-41-2",
+      "page": null,
+      "evidence": "Retrieval note for 'Try, Try Again!': The story follows a person who continues trying after repeated failure. Its lesson is that persistence and repeated effort can lead to success where giving up would guarantee defeat."
+    }
+  ],
+  "expected_answer": "Retrieval note for 'Try, Try Again!': The story follows a person who continues trying after repeated failure. Its lesson is that persistence and repeated effort can lead to success where giving up would guarantee defeat. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "Try, Try Again!"
+  }
+},
+{
+  "id": "q083",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'Why He Carried the Turkey'?",
+  "gold": [
+    {
+      "source_id": "ffp-42-1",
+      "page": null,
+      "evidence": "In 'Why He Carried the Turkey', the main figure or figures are Historical figure. A man carries a turkey for a reason that is not obvious to onlookers. The story reveals that an action may have a thoughtful explanation, "
+    }
+  ],
+  "expected_answer": "In 'Why He Carried the Turkey', the main figure or figures are Historical figure. A man carries a turkey for a reason that is not obvious to onlookers. The story reveals that an action may have a thoughtful explanation, warning readers not to judge from appearances alone.",
+  "filter": {
+    "chapter": "Why He Carried the Turkey"
+  }
+},
+{
+  "id": "q084",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'Why He Carried the Turkey'?",
+  "gold": [
+    {
+      "source_id": "ffp-42-2",
+      "page": null,
+      "evidence": "Retrieval note for 'Why He Carried the Turkey': A man carries a turkey for a reason that is not obvious to onlookers. The story reveals that an action may have a thoughtful explanation, warning readers not to judge from "
+    }
+  ],
+  "expected_answer": "Retrieval note for 'Why He Carried the Turkey': A man carries a turkey for a reason that is not obvious to onlookers. The story reveals that an action may have a thoughtful explanation, warning readers not to judge from appearances alone. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "Why He Carried the Turkey"
+  }
+},
+{
+  "id": "q085",
+  "split": "dev",
+  "question": "What does the text say about 'The Paddle-Wheel Boat'?",
+  "gold": [
+    {
+      "source_id": "ffp-43-1",
+      "page": null,
+      "evidence": "In 'The Paddle-Wheel Boat', the main figure or figures are Robert Fulton. Robert Fulton works on the idea of a steamboat propelled by paddle wheels. The story describes skepticism and practical difficulties before the bo"
+    }
+  ],
+  "expected_answer": "In 'The Paddle-Wheel Boat', the main figure or figures are Robert Fulton. Robert Fulton works on the idea of a steamboat propelled by paddle wheels. The story describes skepticism and practical difficulties before the boat demonstrates that steam power can move a vessel.",
+  "filter": {
+    "chapter": "The Paddle-Wheel Boat"
+  }
+},
+{
+  "id": "q086",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'The Paddle-Wheel Boat'?",
+  "gold": [
+    {
+      "source_id": "ffp-43-2",
+      "page": null,
+      "evidence": "Retrieval note for 'The Paddle-Wheel Boat': Robert Fulton works on the idea of a steamboat propelled by paddle wheels. The story describes skepticism and practical difficulties before the boat demonstrates that steam pow"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'The Paddle-Wheel Boat': Robert Fulton works on the idea of a steamboat propelled by paddle wheels. The story describes skepticism and practical difficulties before the boat demonstrates that steam power can move a vessel. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "The Paddle-Wheel Boat"
+  }
+},
+{
+  "id": "q087",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'The Caliph and the Gardener'?",
+  "gold": [
+    {
+      "source_id": "ffp-44-1",
+      "page": null,
+      "evidence": "In 'The Caliph and the Gardener', the main figure or figures are Caliph; gardener. A caliph speaks with a gardener and the exchange highlights the dignity of honest work. The story suggests that a person's contribution s"
+    }
+  ],
+  "expected_answer": "In 'The Caliph and the Gardener', the main figure or figures are Caliph; gardener. A caliph speaks with a gardener and the exchange highlights the dignity of honest work. The story suggests that a person's contribution should be respected even when the work is humble.",
+  "filter": {
+    "chapter": "The Caliph and the Gardener"
+  }
+},
+{
+  "id": "q088",
+  "split": "dev",
+  "question": "What does the text say about 'The Caliph and the Gardener'?",
+  "gold": [
+    {
+      "source_id": "ffp-44-2",
+      "page": null,
+      "evidence": "Retrieval note for 'The Caliph and the Gardener': A caliph speaks with a gardener and the exchange highlights the dignity of honest work. The story suggests that a person's contribution should be respected even when the "
+    }
+  ],
+  "expected_answer": "Retrieval note for 'The Caliph and the Gardener': A caliph speaks with a gardener and the exchange highlights the dignity of honest work. The story suggests that a person's contribution should be respected even when the work is humble. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "The Caliph and the Gardener"
+  }
+},
+{
+  "id": "q089",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'The Cowherd Who Became a Poet'?",
+  "gold": [
+    {
+      "source_id": "ffp-45-1",
+      "page": null,
+      "evidence": "In 'The Cowherd Who Became a Poet', the main figure or figures are Caedmon. Caedmon works as a cowherd at Whitby Abbey and initially cannot sing when others take turns entertaining the company. In a dream, he is told to "
+    }
+  ],
+  "expected_answer": "In 'The Cowherd Who Became a Poet', the main figure or figures are Caedmon. Caedmon works as a cowherd at Whitby Abbey and initially cannot sing when others take turns entertaining the company. In a dream, he is told to sing about the beginning of created things. He discovers a gift for sacred poetry.",
+  "filter": {
+    "chapter": "The Cowherd Who Became a Poet"
+  }
+},
+{
+  "id": "q090",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'The Cowherd Who Became a Poet'?",
+  "gold": [
+    {
+      "source_id": "ffp-45-2",
+      "page": null,
+      "evidence": "Retrieval note for 'The Cowherd Who Became a Poet': Caedmon works as a cowherd at Whitby Abbey and initially cannot sing when others take turns entertaining the company. In a dream, he is told to sing about the beginning"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'The Cowherd Who Became a Poet': Caedmon works as a cowherd at Whitby Abbey and initially cannot sing when others take turns entertaining the company. In a dream, he is told to sing about the beginning of created things. He discovers a gift for sacred poetry. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "The Cowherd Who Became a Poet"
+  }
+},
+{
+  "id": "q091",
+  "split": "dev",
+  "question": "What does the text say about 'The Lover of Men'?",
+  "gold": [
+    {
+      "source_id": "ffp-46-1",
+      "page": null,
+      "evidence": "In 'The Lover of Men', the main figure or figures are Humanitarian figure. The story presents a person whose concern extends to other people and their welfare. It celebrates compassion, generosity, and a willingness to h"
+    }
+  ],
+  "expected_answer": "In 'The Lover of Men', the main figure or figures are Humanitarian figure. The story presents a person whose concern extends to other people and their welfare. It celebrates compassion, generosity, and a willingness to help beyond one's immediate circle.",
+  "filter": {
+    "chapter": "The Lover of Men"
+  }
+},
+{
+  "id": "q092",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'The Lover of Men'?",
+  "gold": [
+    {
+      "source_id": "ffp-46-2",
+      "page": null,
+      "evidence": "Retrieval note for 'The Lover of Men': The story presents a person whose concern extends to other people and their welfare. It celebrates compassion, generosity, and a willingness to help beyond one's immediate circle. T"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'The Lover of Men': The story presents a person whose concern extends to other people and their welfare. It celebrates compassion, generosity, and a willingness to help beyond one's immediate circle. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "The Lover of Men"
+  }
+},
+{
+  "id": "q093",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'The Charcoal Man and the King'?",
+  "gold": [
+    {
+      "source_id": "ffp-47-1",
+      "page": null,
+      "evidence": "In 'The Charcoal Man and the King', the main figure or figures are Charcoal burner; king. A charcoal burner meets a king, and the encounter contrasts humble occupation with royal status. The story emphasizes that plain s"
+    }
+  ],
+  "expected_answer": "In 'The Charcoal Man and the King', the main figure or figures are Charcoal burner; king. A charcoal burner meets a king, and the encounter contrasts humble occupation with royal status. The story emphasizes that plain speech and sound judgment can matter more than outward rank.",
+  "filter": {
+    "chapter": "The Charcoal Man and the King"
+  }
+},
+{
+  "id": "q094",
+  "split": "dev",
+  "question": "What does the text say about 'The Charcoal Man and the King'?",
+  "gold": [
+    {
+      "source_id": "ffp-47-2",
+      "page": null,
+      "evidence": "Retrieval note for 'The Charcoal Man and the King': A charcoal burner meets a king, and the encounter contrasts humble occupation with royal status. The story emphasizes that plain speech and sound judgment can matter mo"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'The Charcoal Man and the King': A charcoal burner meets a king, and the encounter contrasts humble occupation with royal status. The story emphasizes that plain speech and sound judgment can matter more than outward rank. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "The Charcoal Man and the King"
+  }
+},
+{
+  "id": "q095",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'Which Was the King?'?",
+  "gold": [
+    {
+      "source_id": "ffp-48-1",
+      "page": null,
+      "evidence": "In 'Which Was the King?', the main figure or figures are King; subjects. The story challenges observers to identify the king among people who appear similar. It suggests that true leadership is revealed by conduct and be"
+    }
+  ],
+  "expected_answer": "In 'Which Was the King?', the main figure or figures are King; subjects. The story challenges observers to identify the king among people who appear similar. It suggests that true leadership is revealed by conduct and bearing rather than clothing alone.",
+  "filter": {
+    "chapter": "Which Was the King?"
+  }
+},
+{
+  "id": "q096",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'Which Was the King?'?",
+  "gold": [
+    {
+      "source_id": "ffp-48-2",
+      "page": null,
+      "evidence": "Retrieval note for 'Which Was the King?': The story challenges observers to identify the king among people who appear similar. It suggests that true leadership is revealed by conduct and bearing rather than clothing alon"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'Which Was the King?': The story challenges observers to identify the king among people who appear similar. It suggests that true leadership is revealed by conduct and bearing rather than clothing alone. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "Which Was the King?"
+  }
+},
+{
+  "id": "q097",
+  "split": "dev",
+  "question": "What does the text say about 'The Golden Tripod'?",
+  "gold": [
+    {
+      "source_id": "ffp-49-1",
+      "page": null,
+      "evidence": "In 'The Golden Tripod', the main figure or figures are Ancient Greeks. The story concerns a golden tripod and a sequence of decisions about who should receive it. The object becomes a symbol in a lesson about wisdom, hon"
+    }
+  ],
+  "expected_answer": "In 'The Golden Tripod', the main figure or figures are Ancient Greeks. The story concerns a golden tripod and a sequence of decisions about who should receive it. The object becomes a symbol in a lesson about wisdom, honor, and the limits of material reward.",
+  "filter": {
+    "chapter": "The Golden Tripod"
+  }
+},
+{
+  "id": "q098",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'The Golden Tripod'?",
+  "gold": [
+    {
+      "source_id": "ffp-49-2",
+      "page": null,
+      "evidence": "Retrieval note for 'The Golden Tripod': The story concerns a golden tripod and a sequence of decisions about who should receive it. The object becomes a symbol in a lesson about wisdom, honor, and the limits of material "
+    }
+  ],
+  "expected_answer": "Retrieval note for 'The Golden Tripod': The story concerns a golden tripod and a sequence of decisions about who should receive it. The object becomes a symbol in a lesson about wisdom, honor, and the limits of material reward. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "The Golden Tripod"
+  }
+},
+{
+  "id": "q099",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'One of Aesop's Fables'?",
+  "gold": [
+    {
+      "source_id": "ffp-50-1",
+      "page": null,
+      "evidence": "In 'One of Aesop's Fables', the main figure or figures are Aesop; animals. The collection includes a fable attributed to Aesop. As with the other short moral tales in the volume, the fable uses a compact narrative to inv"
+    }
+  ],
+  "expected_answer": "In 'One of Aesop's Fables', the main figure or figures are Aesop; animals. The collection includes a fable attributed to Aesop. As with the other short moral tales in the volume, the fable uses a compact narrative to invite readers to draw a lesson from the characters' actions.",
+  "filter": {
+    "chapter": "One of Aesop's Fables"
+  }
+},
+{
+  "id": "q100",
+  "split": "dev",
+  "question": "What does the text say about 'One of Aesop's Fables'?",
+  "gold": [
+    {
+      "source_id": "ffp-50-2",
+      "page": null,
+      "evidence": "Retrieval note for 'One of Aesop's Fables': The collection includes a fable attributed to Aesop. As with the other short moral tales in the volume, the fable uses a compact narrative to invite readers to draw a lesson fr"
+    }
+  ],
+  "expected_answer": "Retrieval note for 'One of Aesop's Fables': The collection includes a fable attributed to Aesop. As with the other short moral tales in the volume, the fable uses a compact narrative to invite readers to draw a lesson from the characters' actions. This passage identifies the central event and the lesson or theme associated with the episode.",
+  "filter": {
+    "chapter": "One of Aesop's Fables"
+  }
+},
+{
+  "id": "q101",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'Saving the Birds'?",
+  "gold": [
+    {
+      "source_id": "ffp-01-3",
+      "page": null,
+      "evidence": "Theme and context in 'Saving the Birds': The story concerns Abraham Lincoln. Lincoln was riding with three other lawyers on a muddy country road after rain. They heard young robins chirping in the wet grass after falling"
+    }
+  ],
+  "expected_answer": "Theme and context in 'Saving the Birds': The story concerns Abraham Lincoln. Lincoln was riding with three other lawyers on a muddy country road after rain. They heard young robins chirping in the wet grass after falling from their nest. The other lawyers continued riding, but Lincoln stopped, gathered the birds, climbed the tree, and returned them to their nest. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "filter": {
+    "chapter": "Saving the Birds"
+  }
+},
+{
+  "id": "q102",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'Another Bird Story'?",
+  "gold": [
+    {
+      "source_id": "ffp-02-3",
+      "page": null,
+      "evidence": "Theme and context in 'Another Bird Story': The story concerns Robert E. Lee. During a battle, Robert E. Lee noticed a fallen nest containing young birds. Although cannon fire was passing nearby, he stopped, lifted the ne"
+    }
+  ],
+  "expected_answer": "Theme and context in 'Another Bird Story': The story concerns Robert E. Lee. During a battle, Robert E. Lee noticed a fallen nest containing young birds. Although cannon fire was passing nearby, he stopped, lifted the nest, and placed it safely in the fork of a tree before riding on. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "filter": {
+    "chapter": "Another Bird Story"
+  }
+},
+{
+  "id": "q103",
+  "split": "dev",
+  "question": "What does the text say about 'Speaking a Piece'?",
+  "gold": [
+    {
+      "source_id": "ffp-03-3",
+      "page": null,
+      "evidence": "Theme and context in 'Speaking a Piece': The story concerns Edward Everett. As a small child, Edward Everett received a short speech from the minister Mr. Harris while walking to school with his sister. Everett learned t"
+    }
+  ],
+  "expected_answer": "Theme and context in 'Speaking a Piece': The story concerns Edward Everett. As a small child, Edward Everett received a short speech from the minister Mr. Harris while walking to school with his sister. Everett learned the verses and delivered them clearly at school; the story says he later became a famous orator. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "filter": {
+    "chapter": "Speaking a Piece"
+  }
+},
+{
+  "id": "q104",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'Writing a Composition'?",
+  "gold": [
+    {
+      "source_id": "ffp-04-3",
+      "page": null,
+      "evidence": "Theme and context in 'Writing a Composition': The story concerns Henry Wadsworth Longfellow. At Love Lane School, the teacher asked pupils to write compositions. Henry Longfellow said he did not know how to begin, so the"
+    }
+  ],
+  "expected_answer": "Theme and context in 'Writing a Composition': The story concerns Henry Wadsworth Longfellow. At Love Lane School, the teacher asked pupils to write compositions. Henry Longfellow said he did not know how to begin, so the teacher advised him to choose an object and describe what it was, what it was like, what it was good for, and how it was used. Longfellow wrote about a turnip. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "filter": {
+    "chapter": "Writing a Composition"
+  }
+},
+{
+  "id": "q105",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'The Whistle'?",
+  "gold": [
+    {
+      "source_id": "ffp-05-3",
+      "page": null,
+      "evidence": "Theme and context in 'The Whistle': The story concerns Benjamin Franklin. When Benjamin Franklin was seven, his mother gave him a few pennies and warned him not to spend them foolishly. He traded all the pennies for a wh"
+    }
+  ],
+  "expected_answer": "Theme and context in 'The Whistle': The story concerns Benjamin Franklin. When Benjamin Franklin was seven, his mother gave him a few pennies and warned him not to spend them foolishly. He traded all the pennies for a whistle, then learned from his family that he had paid far too much for it. He remembered the lesson about not paying too dear for a whistle. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "filter": {
+    "chapter": "The Whistle"
+  }
+},
+{
+  "id": "q106",
+  "split": "dev",
+  "question": "What does the text say about 'The Ettrick Shepherd'?",
+  "gold": [
+    {
+      "source_id": "ffp-06-3",
+      "page": null,
+      "evidence": "Theme and context in 'The Ettrick Shepherd': The story concerns James Hogg. James Hogg worked as a shepherd near the Ettrick Water in Scotland. During a storm, his dog Sirrah gathered and guarded a flock of seven hundred"
+    }
+  ],
+  "expected_answer": "Theme and context in 'The Ettrick Shepherd': The story concerns James Hogg. James Hogg worked as a shepherd near the Ettrick Water in Scotland. During a storm, his dog Sirrah gathered and guarded a flock of seven hundred lambs in a ravine. Not one lamb was missing when the shepherds found them. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "filter": {
+    "chapter": "The Ettrick Shepherd"
+  }
+},
+{
+  "id": "q107",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'The Caliph and the Poet'?",
+  "gold": [
+    {
+      "source_id": "ffp-07-3",
+      "page": null,
+      "evidence": "Theme and context in 'The Caliph and the Poet': The story concerns Al Mansur; Thalibi. The caliph Al Mansur offered the poet Thalibi a choice between three hundred pieces of gold and three wise sayings. Thalibi chose wis"
+    }
+  ],
+  "expected_answer": "Theme and context in 'The Caliph and the Poet': The story concerns Al Mansur; Thalibi. The caliph Al Mansur offered the poet Thalibi a choice between three hundred pieces of gold and three wise sayings. Thalibi chose wisdom, but the sayings disappointed him. The caliph eventually rewarded the poet with five hundred pieces of gold for his fine poem. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "filter": {
+    "chapter": "The Caliph and the Poet"
+  }
+},
+{
+  "id": "q108",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'Becos! Becos! Becos!'?",
+  "gold": [
+    {
+      "source_id": "ffp-08-3",
+      "page": null,
+      "evidence": "Theme and context in 'Becos! Becos! Becos!': The story concerns Psammeticus. The Egyptian king Psammeticus wanted to test whether Egyptians were the oldest people. He placed two babies with a shepherd and ordered that no"
+    }
+  ],
+  "expected_answer": "Theme and context in 'Becos! Becos! Becos!': The story concerns Psammeticus. The Egyptian king Psammeticus wanted to test whether Egyptians were the oldest people. He placed two babies with a shepherd and ordered that nobody speak in their hearing. After the children grew, they repeatedly said a word the king's investigators interpreted as the Phrygian word for bread. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "filter": {
+    "chapter": "Becos! Becos! Becos!"
+  }
+},
+{
+  "id": "q109",
+  "split": "dev",
+  "question": "What does the text say about 'A Lesson in Humility'?",
+  "gold": [
+    {
+      "source_id": "ffp-09-3",
+      "page": null,
+      "evidence": "Theme and context in 'A Lesson in Humility': The story concerns King; courtier. The story presents a ruler and a courtier in an episode intended to teach humility. Its central lesson is that status and outward importance"
+    }
+  ],
+  "expected_answer": "Theme and context in 'A Lesson in Humility': The story concerns King; courtier. The story presents a ruler and a courtier in an episode intended to teach humility. Its central lesson is that status and outward importance should not make a person proud or dismissive of others. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "filter": {
+    "chapter": "A Lesson in Humility"
+  }
+},
+{
+  "id": "q110",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'The Midnight Ride'?",
+  "gold": [
+    {
+      "source_id": "ffp-10-3",
+      "page": null,
+      "evidence": "Theme and context in 'The Midnight Ride': The story concerns Paul Revere. Paul Revere's midnight ride is presented as a warning journey connected with the American struggle for independence. The story emphasizes the urge"
+    }
+  ],
+  "expected_answer": "Theme and context in 'The Midnight Ride': The story concerns Paul Revere. Paul Revere's midnight ride is presented as a warning journey connected with the American struggle for independence. The story emphasizes the urgency of carrying news so that people could prepare for the approaching British troops. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "filter": {
+    "chapter": "The Midnight Ride"
+  }
+},
+{
+  "id": "q111",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'The Boy and the Wolf'?",
+  "gold": [
+    {
+      "source_id": "ffp-11-3",
+      "page": null,
+      "evidence": "Theme and context in 'The Boy and the Wolf': The story concerns Shepherd boy. A shepherd boy repeatedly raised a false alarm about a wolf. When a wolf eventually appeared, the people no longer trusted his warning. The ep"
+    }
+  ],
+  "expected_answer": "Theme and context in 'The Boy and the Wolf': The story concerns Shepherd boy. A shepherd boy repeatedly raised a false alarm about a wolf. When a wolf eventually appeared, the people no longer trusted his warning. The episode teaches that repeated lying destroys credibility. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "filter": {
+    "chapter": "The Boy and the Wolf"
+  }
+},
+{
+  "id": "q112",
+  "split": "dev",
+  "question": "What does the text say about 'Another Wolf Story'?",
+  "gold": [
+    {
+      "source_id": "ffp-12-3",
+      "page": null,
+      "evidence": "Theme and context in 'Another Wolf Story': The story concerns Wolf; shepherd. This story revisits the danger associated with wolves and the responsibility of people who watch over a flock. It contrasts careless claims or"
+    }
+  ],
+  "expected_answer": "Theme and context in 'Another Wolf Story': The story concerns Wolf; shepherd. This story revisits the danger associated with wolves and the responsibility of people who watch over a flock. It contrasts careless claims or conduct with the need for truthful warnings and alertness. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "filter": {
+    "chapter": "Another Wolf Story"
+  }
+},
+{
+  "id": "q113",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'The Horseshoe Nails'?",
+  "gold": [
+    {
+      "source_id": "ffp-13-3",
+      "page": null,
+      "evidence": "Theme and context in 'The Horseshoe Nails': The story concerns Farrier; traveler. The story uses a chain of small practical failures involving horseshoe nails to show how a seemingly minor omission can lead to a much lar"
+    }
+  ],
+  "expected_answer": "Theme and context in 'The Horseshoe Nails': The story concerns Farrier; traveler. The story uses a chain of small practical failures involving horseshoe nails to show how a seemingly minor omission can lead to a much larger loss. Its lesson is that attention to small details can matter greatly. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "filter": {
+    "chapter": "The Horseshoe Nails"
+  }
+},
+{
+  "id": "q114",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'The Landlord's Mistake'?",
+  "gold": [
+    {
+      "source_id": "ffp-14-3",
+      "page": null,
+      "evidence": "Theme and context in 'The Landlord's Mistake': The story concerns Landlord; guest. A landlord makes an incorrect assumption about a visitor and the mistake creates an awkward situation. The episode warns against judging "
+    }
+  ],
+  "expected_answer": "Theme and context in 'The Landlord's Mistake': The story concerns Landlord; guest. A landlord makes an incorrect assumption about a visitor and the mistake creates an awkward situation. The episode warns against judging people before learning the facts. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "filter": {
+    "chapter": "The Landlord's Mistake"
+  }
+},
+{
+  "id": "q115",
+  "split": "dev",
+  "question": "What does the text say about 'A Lesson in Manners'?",
+  "gold": [
+    {
+      "source_id": "ffp-15-3",
+      "page": null,
+      "evidence": "Theme and context in 'A Lesson in Manners': The story concerns Young person; older people. The story illustrates the importance of courteous behavior in ordinary encounters. Good manners are shown through respectful spee"
+    }
+  ],
+  "expected_answer": "Theme and context in 'A Lesson in Manners': The story concerns Young person; older people. The story illustrates the importance of courteous behavior in ordinary encounters. Good manners are shown through respectful speech and consideration for other people. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "filter": {
+    "chapter": "A Lesson in Manners"
+  }
+},
+{
+  "id": "q116",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'Going to Sea'?",
+  "gold": [
+    {
+      "source_id": "ffp-16-3",
+      "page": null,
+      "evidence": "Theme and context in 'Going to Sea': The story concerns Young sailor. A young person longs to go to sea and imagines the excitement of travel. The story contrasts romantic expectations with the demands and risks of a sai"
+    }
+  ],
+  "expected_answer": "Theme and context in 'Going to Sea': The story concerns Young sailor. A young person longs to go to sea and imagines the excitement of travel. The story contrasts romantic expectations with the demands and risks of a sailor's life. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "filter": {
+    "chapter": "Going to Sea"
+  }
+},
+{
+  "id": "q117",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'The Shepherd-Boy Painter'?",
+  "gold": [
+    {
+      "source_id": "ffp-17-3",
+      "page": null,
+      "evidence": "Theme and context in 'The Shepherd-Boy Painter': The story concerns Giotto; Cimabue; Bondone. A traveler and painter named Cimabue discovers the shepherd boy Giotto drawing a sheep on a rock with a charred stick. Cimabue"
+    }
+  ],
+  "expected_answer": "Theme and context in 'The Shepherd-Boy Painter': The story concerns Giotto; Cimabue; Bondone. A traveler and painter named Cimabue discovers the shepherd boy Giotto drawing a sheep on a rock with a charred stick. Cimabue asks Giotto's father, Bondone, for permission to teach the boy. Giotto later paints a convincing fly on Cimabue's unfinished picture. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "filter": {
+    "chapter": "The Shepherd-Boy Painter"
+  }
+},
+{
+  "id": "q118",
+  "split": "dev",
+  "question": "What does the text say about 'Two Great Painters'?",
+  "gold": [
+    {
+      "source_id": "ffp-18-3",
+      "page": null,
+      "evidence": "Theme and context in 'Two Great Painters': The story concerns Zeuxis; Parrhasius. Zeuxis paints fruit so lifelike that birds try to peck it. Parrhasius paints what appears to be a curtain, and Zeuxis asks him to draw it "
+    }
+  ],
+  "expected_answer": "Theme and context in 'Two Great Painters': The story concerns Zeuxis; Parrhasius. Zeuxis paints fruit so lifelike that birds try to peck it. Parrhasius paints what appears to be a curtain, and Zeuxis asks him to draw it aside. Zeuxis realizes that Parrhasius has deceived a human painter, a harder achievement than deceiving birds. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "filter": {
+    "chapter": "Two Great Painters"
+  }
+},
+{
+  "id": "q119",
+  "split": "dev",
+  "question": "Which person or figures are mentioned in 'The King and the Bees'?",
+  "gold": [
+    {
+      "source_id": "ffp-19-3",
+      "page": null,
+      "evidence": "Theme and context in 'The King and the Bees': The story concerns King. A king encounters bees and learns from observing their orderly work. The story uses the bees' cooperation and industry to illustrate lessons about le"
+    }
+  ],
+  "expected_answer": "Theme and context in 'The King and the Bees': The story concerns King. A king encounters bees and learns from observing their orderly work. The story uses the bees' cooperation and industry to illustrate lessons about leadership and useful labor. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "filter": {
+    "chapter": "The King and the Bees"
+  }
+},
+{
+  "id": "q120",
+  "split": "dev",
+  "question": "What event, information, or lesson is presented in 'Our First Great Painter'?",
+  "gold": [
+    {
+      "source_id": "ffp-20-3",
+      "page": null,
+      "evidence": "Theme and context in 'Our First Great Painter': The story concerns Early painter. The story describes an early celebrated painter and the development of artistic skill. It emphasizes the lasting value of careful observat"
+    }
+  ],
+  "expected_answer": "Theme and context in 'Our First Great Painter': The story concerns Early painter. The story describes an early celebrated painter and the development of artistic skill. It emphasizes the lasting value of careful observation, practice, and the ability to represent the world through art. Readers can retrieve this passage to identify the people, event, and ethical idea presented in the chapter.",
+  "filter": {
+    "chapter": "Our First Great Painter"
+  }
+},
+{
+  "id": "q121",
+  "split": "dev",
+  "question": "How do the two bird stories portray kindness?",
+  "gold": [
+    {
+      "source_id": "ffp-01-1",
+      "page": null,
+      "evidence": "In 'Saving the Birds', the main figure or figures are Abraham Lincoln. Lincoln was riding with three other lawyers on a muddy country road after rain. They heard young robins chirping in the wet grass after falling from "
+    },
+    {
+      "source_id": "ffp-02-1",
+      "page": null,
+      "evidence": "In 'Another Bird Story', the main figure or figures are Robert E. Lee. During a battle, Robert E. Lee noticed a fallen nest containing young birds. Although cannon fire was passing nearby, he stopped, lifted the nest, an"
+    }
+  ],
+  "expected_answer": "Both stories depict a person stopping to protect birds: Lincoln returns fallen robins to their nest, and Robert E. Lee places a fallen nest safely in a tree.",
+  "filter": {
+    "chapters": [
+      "Saving the Birds",
+      "Another Bird Story"
+    ]
+  }
+},
+{
+  "id": "q122",
+  "split": "dev",
+  "question": "What lesson does Benjamin Franklin learn from buying the whistle?",
+  "gold": [
+    {
+      "source_id": "ffp-05-1",
+      "page": null,
+      "evidence": "In 'The Whistle', the main figure or figures are Benjamin Franklin. When Benjamin Franklin was seven, his mother gave him a few pennies and warned him not to spend them foolishly. He traded all the pennies for a whistle,"
+    }
+  ],
+  "expected_answer": "Franklin learns that he paid too much for the whistle and remembers the experience as a warning against overpaying for something merely because it attracts him.",
+  "filter": {
+    "chapters": [
+      "The Whistle"
+    ]
+  }
+},
+{
+  "id": "q123",
+  "split": "dev",
+  "question": "How do Giotto and Zeuxis demonstrate artistic skill?",
+  "gold": [
+    {
+      "source_id": "ffp-17-1",
+      "page": null,
+      "evidence": "In 'The Shepherd-Boy Painter', the main figure or figures are Giotto; Cimabue; Bondone. A traveler and painter named Cimabue discovers the shepherd boy Giotto drawing a sheep on a rock with a charred stick. Cimabue asks "
+    },
+    {
+      "source_id": "ffp-18-1",
+      "page": null,
+      "evidence": "In 'Two Great Painters', the main figure or figures are Zeuxis; Parrhasius. Zeuxis paints fruit so lifelike that birds try to peck it. Parrhasius paints what appears to be a curtain, and Zeuxis asks him to draw it aside."
+    }
+  ],
+  "expected_answer": "Giotto impresses Cimabue with a lifelike drawing of a sheep and later a convincing fly; Zeuxis paints fruit so realistically that birds try to peck it.",
+  "filter": {
+    "chapters": [
+      "The Shepherd-Boy Painter",
+      "Two Great Painters"
+    ]
+  }
+},
+{
+  "id": "q124",
+  "split": "dev",
+  "question": "What do Sirrah and the dolphin have in common?",
+  "gold": [
+    {
+      "source_id": "ffp-06-1",
+      "page": null,
+      "evidence": "In 'The Ettrick Shepherd', the main figure or figures are James Hogg. James Hogg worked as a shepherd near the Ettrick Water in Scotland. During a storm, his dog Sirrah gathered and guarded a flock of seven hundred lambs"
+    },
+    {
+      "source_id": "ffp-33-1",
+      "page": null,
+      "evidence": "In 'Saved by a Dolphin', the main figure or figures are Arion. Arion, a celebrated musician from Corinth, travels to Italy and earns money by performing. Sailors on his homeward voyage plot to take his wealth; Arion asks"
+    }
+  ],
+  "expected_answer": "Both animals help humans: Sirrah gathers and protects Hogg's flock, while a dolphin carries Arion to safety.",
+  "filter": {
+    "chapters": [
+      "The Ettrick Shepherd",
+      "Saved by a Dolphin"
+    ]
+  }
+},
+{
+  "id": "q125",
+  "split": "dev",
+  "question": "How is Alexander Selkirk connected to Robinson Crusoe?",
+  "gold": [
+    {
+      "source_id": "ffp-38-1",
+      "page": null,
+      "evidence": "In 'The Story of a Great Story', the main figure or figures are Alexander Selkirk; Daniel Defoe. Alexander Selkirk is left on Juan Fernandez island after quarrelling with his shipmates. He survives alone for four years a"
+    }
+  ],
+  "expected_answer": "Selkirk's experience of surviving alone on an island is described as an inspiration for Daniel Defoe's Robinson Crusoe.",
+  "filter": {
+    "chapters": [
+      "The Story of a Great Story"
+    ]
+  }
+},
+{
+  "id": "q126",
+  "split": "dev",
+  "question": "What do the Young Scout and the Midnight Ride have in common?",
+  "gold": [
+    {
+      "source_id": "ffp-10-1",
+      "page": null,
+      "evidence": "In 'The Midnight Ride', the main figure or figures are Paul Revere. Paul Revere's midnight ride is presented as a warning journey connected with the American struggle for independence. The story emphasizes the urgency of"
+    },
+    {
+      "source_id": "ffp-21-1",
+      "page": null,
+      "evidence": "In 'The Young Scout', the main figure or figures are Andrew Jackson. Andrew Jackson was a boy in South Carolina when the Revolutionary War reached his region. After the British took Charleston, thirteen-year-old Jackson "
+    }
+  ],
+  "expected_answer": "Both episodes are associated with the American Revolutionary War and the effort to support the American cause.",
+  "filter": {
+    "chapters": [
+      "The Midnight Ride",
+      "The Young Scout"
+    ]
+  }
+},
+{
+  "id": "q127",
+  "split": "dev",
+  "question": "What does the collection's prefatory note say about its stories?",
+  "gold": [
+    {
+      "source_id": "ffp-01-2",
+      "page": null,
+      "evidence": "In the prefatory note to Fifty Famous People, James Baldwin explains that the stories are not biographies, although they concern real people who lived and took part in history. He says each story has a basis of truth and"
+    }
+  ],
+  "expected_answer": "The stories are not biographies, but they concern real people, have a basis of truth, and each contains an ethical lesson.",
+  "filter": {
+    "chapters": [
+      "Prefatory Note"
+    ]
+  }
+},
+{
+  "id": "q128",
+  "split": "dev",
+  "question": "What advice helps Longfellow begin his composition?",
+  "gold": [
+    {
+      "source_id": "ffp-04-1",
+      "page": null,
+      "evidence": "In 'Writing a Composition', the main figure or figures are Henry Wadsworth Longfellow. At Love Lane School, the teacher asked pupils to write compositions. Henry Longfellow said he did not know how to begin, so the teach"
+    }
+  ],
+  "expected_answer": "His teacher advises him to choose an object and describe what it is, what it is like, what it is good for, and how it is used.",
+  "filter": {
+    "chapters": [
+      "Writing a Composition"
+    ]
+  }
+},
+{
+  "id": "q129",
+  "split": "dev",
+  "question": "Why is Sirrah important in the Ettrick Shepherd story?",
+  "gold": [
+    {
+      "source_id": "ffp-06-1",
+      "page": null,
+      "evidence": "In 'The Ettrick Shepherd', the main figure or figures are James Hogg. James Hogg worked as a shepherd near the Ettrick Water in Scotland. During a storm, his dog Sirrah gathered and guarded a flock of seven hundred lambs"
+    }
+  ],
+  "expected_answer": "Sirrah gathers and guards the flock of lambs in a ravine, and no lamb is missing when the shepherds find them.",
+  "filter": {
+    "chapters": [
+      "The Ettrick Shepherd"
+    ]
+  }
+},
+{
+  "id": "q130",
+  "split": "dev",
+  "question": "What happens to Arion after the sailors threaten him?",
+  "gold": [
+    {
+      "source_id": "ffp-33-1",
+      "page": null,
+      "evidence": "In 'Saved by a Dolphin', the main figure or figures are Arion. Arion, a celebrated musician from Corinth, travels to Italy and earns money by performing. Sailors on his homeward voyage plot to take his wealth; Arion asks"
+    }
+  ],
+  "expected_answer": "Arion asks to sing before being thrown into the sea, and a dolphin carries him safely to shore.",
+  "filter": {
+    "chapters": [
+      "Saved by a Dolphin"
+    ]
+  }
+},
+{
+  "id": "q131",
+  "split": "dev",
+  "question": "What does the Surly Guest episode suggest about manners?",
+  "gold": [
+    {
+      "source_id": "ffp-37-1",
+      "page": null,
+      "evidence": "In 'The Surly Guest', the main figure or figures are John Randolph; innkeeper. John Randolph asks an innkeeper for directions but responds rudely when the innkeeper asks about his travel plans. After Randolph reaches a f"
+    }
+  ],
+  "expected_answer": "John Randolph's rude treatment of the innkeeper results in the loss of useful directions when he reaches a fork in the road.",
+  "filter": {
+    "chapters": [
+      "The Surly Guest"
+    ]
+  }
+},
+{
+  "id": "q132",
+  "split": "dev",
+  "question": "What is the main idea of Try, Try Again?",
+  "gold": [
+    {
+      "source_id": "ffp-41-1",
+      "page": null,
+      "evidence": "In 'Try, Try Again!', the main figure or figures are Persevering learner. The story follows a person who continues trying after repeated failure. Its lesson is that persistence and repeated effort can lead to success whe"
+    }
+  ],
+  "expected_answer": "The story promotes persistence and continued effort after failure.",
+  "filter": {
+    "chapters": [
+      "Try, Try Again!"
+    ]
+  }
+},
+{
+  "id": "q133",
+  "split": "dev",
+  "question": "Which episodes show animals helping or influencing people?",
+  "gold": [
+    {
+      "source_id": "ffp-06-1",
+      "page": null,
+      "evidence": "In 'The Ettrick Shepherd', the main figure or figures are James Hogg. James Hogg worked as a shepherd near the Ettrick Water in Scotland. During a storm, his dog Sirrah gathered and guarded a flock of seven hundred lambs"
+    },
+    {
+      "source_id": "ffp-33-1",
+      "page": null,
+      "evidence": "In 'Saved by a Dolphin', the main figure or figures are Arion. Arion, a celebrated musician from Corinth, travels to Italy and earns money by performing. Sailors on his homeward voyage plot to take his wealth; Arion asks"
+    }
+  ],
+  "expected_answer": "Sirrah protects a flock of lambs, and a dolphin saves Arion from drowning.",
+  "filter": {
+    "chapters": [
+      "The Ettrick Shepherd",
+      "Saved by a Dolphin"
+    ]
+  }
+},
+{
+  "id": "q134",
+  "split": "dev",
+  "question": "What invention is discussed in The Paddle-Wheel Boat?",
+  "gold": [
+    {
+      "source_id": "ffp-43-1",
+      "page": null,
+      "evidence": "In 'The Paddle-Wheel Boat', the main figure or figures are Robert Fulton. Robert Fulton works on the idea of a steamboat propelled by paddle wheels. The story describes skepticism and practical difficulties before the bo"
+    }
+  ],
+  "expected_answer": "The story describes Robert Fulton working on a steamboat propelled by paddle wheels.",
+  "filter": {
+    "chapters": [
+      "The Paddle-Wheel Boat"
+    ]
+  }
+},
+{
+  "id": "q135",
+  "split": "dev",
+  "question": "How does Caedmon discover his poetic ability?",
+  "gold": [
+    {
+      "source_id": "ffp-45-1",
+      "page": null,
+      "evidence": "In 'The Cowherd Who Became a Poet', the main figure or figures are Caedmon. Caedmon works as a cowherd at Whitby Abbey and initially cannot sing when others take turns entertaining the company. In a dream, he is told to "
+    }
+  ],
+  "expected_answer": "After feeling unable to sing with the other workers, Caedmon dreams that he is told to sing about creation and discovers his gift for poetry.",
+  "filter": {
+    "chapters": [
+      "The Cowherd Who Became a Poet"
+    ]
+  }
+},
+{
+  "id": "q136",
+  "split": "dev",
+  "question": "What shared theme appears in The Caliph and the Gardener and The Charcoal Man and the King?",
+  "gold": [
+    {
+      "source_id": "ffp-44-1",
+      "page": null,
+      "evidence": "In 'The Caliph and the Gardener', the main figure or figures are Caliph; gardener. A caliph speaks with a gardener and the exchange highlights the dignity of honest work. The story suggests that a person's contribution s"
+    },
+    {
+      "source_id": "ffp-47-1",
+      "page": null,
+      "evidence": "In 'The Charcoal Man and the King', the main figure or figures are Charcoal burner; king. A charcoal burner meets a king, and the encounter contrasts humble occupation with royal status. The story emphasizes that plain s"
+    }
+  ],
+  "expected_answer": "Both stories bring a ruler into contact with someone of humble occupation and emphasize the value of honest work or practical wisdom.",
+  "filter": {
+    "chapters": [
+      "The Caliph and the Gardener",
+      "The Charcoal Man and the King"
+    ]
+  }
+},
+{
+  "id": "q137",
+  "split": "dev",
+  "question": "Who wrote Fifty Famous People?",
+  "gold": [
+    {
+      "source_id": "ffp-01-1",
+      "page": null,
+      "evidence": "In 'Saving the Birds', the main figure or figures are Abraham Lincoln. Lincoln was riding with three other lawyers on a muddy country road after rain. They heard young robins chirping in the wet grass after falling from "
+    }
+  ],
+  "expected_answer": "James Baldwin wrote Fifty Famous People: A Book of Short Stories.",
+  "filter": {
+    "chapters": [
+      "Saving the Birds"
+    ]
+  }
+},
+{
+  "id": "q138",
+  "split": "dev",
+  "question": "Does the book claim to be a set of full biographies?",
+  "gold": [
+    {
+      "source_id": "ffp-01-2",
+      "page": null,
+      "evidence": "In the prefatory note to Fifty Famous People, James Baldwin explains that the stories are not biographies, although they concern real people who lived and took part in history. He says each story has a basis of truth and"
+    }
+  ],
+  "expected_answer": "No. Its prefatory note explicitly says the stories are not biographical, although they concern real people and contain a basis of truth and an ethical lesson.",
+  "filter": {
+    "chapters": [
+      "Prefatory Note"
+    ]
+  }
+}
+]

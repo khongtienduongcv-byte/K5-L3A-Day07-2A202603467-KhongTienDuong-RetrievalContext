@@ -1,36 +1,211 @@
+
 {
   "manifest_version": 1,
   "questions": [
-    {"id":"Q001","split":"dev","question":"Thành phố nào là thủ đô của Pháp?","expected_answer":"Paris","gold_source_id":"demo","gold_page":1,"evidence_quote":"Thành phố Paris là thủ đô của nước Pháp."},
-    {"id":"Q002","split":"dev","question":"Ai là tác giả của tác phẩm Hamlet?","expected_answer":"William Shakespeare","gold_source_id":"demo","gold_page":2,"evidence_quote":"William Shakespeare là tác giả nổi tiếng nhất của Hamlet."},
-    {"id":"Q003","split":"dev","question":"Hình học gọi gì cho tam giác có ba cạnh bằng nhau?","expected_answer":"Tam giác đều","gold_source_id":"demo","gold_page":3,"evidence_quote":"Tam giác đều có ba cạnh có độ dài bằng nhau."},
-    {"id":"Q004","split":"dev","question":"Phần nào của cơ thể con người điều khiển sự cân bằng?","expected_answer":"Tai trong","gold_source_id":"demo","gold_page":4,"evidence_quote":"Cơ quan tiền đình ở trong tai giúp duy trì cân bằng."},
-    {"id":"Q005","split":"dev","question":"Công thức hóa học của nước là gì?","expected_answer":"H2O","gold_source_id":"demo","gold_page":5,"evidence_quote":"Phân tử nước có công thức hóa học là H2O."},
-    {"id":"Q006","split":"dev","question":"Tháng mấy thường diễn ra Tết Trung thu ở Việt Nam?","expected_answer":"Tháng 8 âm lịch","gold_source_id":"demo","gold_page":6,"evidence_quote":"Tháng tám âm lịch là thời điểm diễn ra Tết Trung thu ở Việt Nam."},
-    {"id":"Q007","split":"dev","question":"Ai là một trong những người đồng sáng lập công ty Apple?","expected_answer":"Steve Jobs","gold_source_id":"demo","gold_page":7,"evidence_quote":"Steve Jobs là một trong những người đồng sáng lập Apple."},
-    {"id":"Q008","split":"dev","question":"Bán kính trung bình của Trái Đất khoảng bao nhiêu km?","expected_answer":"6371 km","gold_source_id":"demo","gold_page":8,"evidence_quote":"Bán kính trung bình của Trái Đất là khoảng 6371 km."},
-    {"id":"Q009","split":"dev","question":"Màu sắc chủ đạo trên quốc kỳ Việt Nam là gì?","expected_answer":"Đỏ","gold_source_id":"demo","gold_page":9,"evidence_quote":"Màu đỏ là màu nền chính của quốc kỳ Việt Nam."},
-    {"id":"Q010","split":"dev","question":"Nguyên tố nào tạo nên màu đỏ đặc trưng của đá ruby?","expected_answer":"Crôm","gold_source_id":"demo","gold_page":10,"evidence_quote":"Ruby là khoáng vật corundum chứa crôm tạo nên màu đỏ."},
-    {"id":"Q011","split":"dev","question":"Nhiệt độ đóng băng của nước tinh khiết ở áp suất tiêu chuẩn là bao nhiêu độ C?","expected_answer":"0°C","gold_source_id":"demo","gold_page":11,"evidence_quote":"Nhiệt độ đóng băng của nước tinh khiết là 0°C ở áp suất tiêu chuẩn."},
-    {"id":"Q012","split":"dev","question":"Ai là Tổng thống Hoa Kỳ đầu tiên?","expected_answer":"George Washington","gold_source_id":"demo","gold_page":12,"evidence_quote":"George Washington là tổng thống đầu tiên của Hoa Kỳ."},
-    {"id":"Q013","split":"dev","question":"Hành tinh nào gần Mặt Trời nhất?","expected_answer":"Sao Thủy","gold_source_id":"demo","gold_page":13,"evidence_quote":"Sao Thủy là hành tinh gần Mặt Trời nhất trong Hệ Mặt Trời."},
-    {"id":"Q014","split":"dev","question":"Nguyên tố hóa học nào có ký hiệu Au?","expected_answer":"Vàng","gold_source_id":"demo","gold_page":14,"evidence_quote":"Au là ký hiệu hóa học của nguyên tố vàng."},
-    {"id":"Q015","split":"dev","question":"Môn thể thao truyền thống nổi tiếng của Nhật Bản là gì?","expected_answer":"Sumo","gold_source_id":"demo","gold_page":15,"evidence_quote":"Sumo là môn thể thao truyền thống nổi tiếng của Nhật Bản."},
-
-    {"id":"Q016","split":"dev","question":"Nhiệt độ chính xác trên sao Hỏa vào thứ Hai tuần trước là bao nhiêu?","note":"Không có dữ liệu thời tiết từ sao Hỏa trong corpus."},
-    {"id":"Q017","split":"dev","question":"Danh sách các số trúng xổ số lần cuối cùng trong năm 2023 là gì?","note":"Dữ liệu xổ số không được lưu trữ trong corpus."},
-
-    {"id":"Q018","split":"test","question":"Ký hiệu hóa học của vàng là gì?","expected_answer":"Au","gold_source_id":"demo","gold_page":3,"evidence_quote":"Au là ký hiệu hóa học của vàng."},
-    {"id":"Q019","split":"test","question":"Hành tinh nào gần Mặt Trời nhất?","expected_answer":"Sao Thủy","gold_source_id":"demo","gold_page":4,"evidence_quote":"Sao Thủy là hành tinh quay quanh Mặt Trời gần nhất."},
-    {"id":"Q020","split":"test","question":"Thủ đô của Vương quốc Anh là thành phố nào?","expected_answer":"London","gold_source_id":"demo","gold_page":5,"evidence_quote":"London là thủ đô của Vương quốc Anh."},
-    {"id":"Q021","split":"test","question":"Đá marble (đá cẩm thạch) chủ yếu chứa hợp chất nào?","expected_answer":"Canxi cacbonat","gold_source_id":"demo","gold_page":6,"evidence_quote":"Đá marble chủ yếu chứa canxi cacbonat."},
-    {"id":"Q022","split":"test","question":"Leo Tolstoy là nhà văn của quốc gia nào?","expected_answer":"Nga","gold_source_id":"demo","gold_page":7,"evidence_quote":"Leo Tolstoy là một nhà văn nổi tiếng người Nga."},
-
-    {"id":"Q023","split":"test","question":"Giá cổ phiếu XYJ vào ngày mai sẽ là bao nhiêu?","note":"Thị trường tài chính và dữ liệu dự báo giá cổ phiếu không có trong corpus."},
-    {"id":"Q024","split":"test","question":"Ngày chính xác của kỳ nguyệt thực tiếp theo là ngày nào?","note":"Lịch các sự kiện thiên văn không có trong corpus."}
+    {
+      "id": "Q001",
+      "split": "dev",
+      "question": "Trong truyện 'Saving the Birds', tại sao Abraham Lincoln lại dừng ngựa trong khi ba luật sư còn lại tiếp tục đi?",
+      "expected_answer": "Ông dừng lại để nhặt hai chú chim non bị rơi khỏi tổ và đưa chúng trở về tổ.",
+      "gold_source_id": "fifty_famous",
+      "gold_page": 7,
+      "evidence_quote": "He got down from his horse and very gently took the little ones up in his big warm hands."
+    },
+    {
+      "id": "Q002",
+      "split": "dev",
+      "question": "Trong truyện 'Another Bird Story', vị tướng đã làm gì với tổ chim sau khi phát hiện nó nằm dưới đất giữa trận chiến?",
+      "expected_answer": "Ông nhẹ nhàng đặt tổ chim vào một vị trí an toàn trên chạc cây.",
+      "gold_source_id": "fifty_famous",
+      "gold_page": 11,
+      "evidence_quote": "He lifted the nest gently and put it in a safe place in the forks of the tree."
+    },
+    {
+      "id": "Q003",
+      "split": "dev",
+      "question": "Trong truyện 'Speaking a Piece', ai đã đưa cho Edward một bài diễn thuyết ngắn để cậu luyện đọc trước buổi học?",
+      "expected_answer": "Mục sư Mr. Harris.",
+      "gold_source_id": "fifty_famous",
+      "gold_page": 14,
+      "evidence_quote": "Then he took from his pocket a sheet of paper on which some verses were written."
+    },
+    {
+      "id": "Q004",
+      "split": "dev",
+      "question": "Trong truyện 'Writing a Composition', người thầy đã hướng dẫn Henry Longfellow làm thế nào để bắt đầu bài tập làm văn khi cậu nói mình không biết viết?",
+      "expected_answer": "Chọn một sự vật, viết tên nó rồi mô tả nó trông như thế nào, có ích gì và người ta sử dụng nó ra sao.",
+      "gold_source_id": "fifty_famous",
+      "gold_page": 18,
+      "evidence_quote": "Then try to tell what it is, what it is like, what it is good for, and what is done with it."
+    },
+    {
+      "id": "Q005",
+      "split": "dev",
+      "question": "Trong truyện 'The Whistle', Benjamin Franklin nhận ra mình đã mua chiếc còi quá đắt sau khi người thân nói với cậu điều gì?",
+      "expected_answer": "Anh trai cậu nói chiếc còi chỉ đáng một penny và mẹ cậu cho biết số tiền đó có thể mua được nửa tá chiếc tương tự.",
+      "gold_source_id": "fifty_famous",
+      "gold_page": 21,
+      "evidence_quote": "You might have bought half a dozen such whistles with the money I gave you."
+    },
+    {
+      "id": "Q006",
+      "split": "dev",
+      "question": "Trong truyện 'The Ettrick Shepherd', sau khi đàn cừu bị phân tán trong cơn bão, James Hogg và những người chăn cừu tìm thấy Sirrah ở đâu?",
+      "expected_answer": "Ở dưới đáy một khe núi hẹp và sâu, đứng canh giữ những con cừu.",
+      "gold_source_id": "fifty_famous",
+      "gold_page": 24,
+      "evidence_quote": "At the bottom they saw some lambs huddled together among the rocks. And there was Sirrah standing guard over them."
+    },
+    {
+      "id": "Q007",
+      "split": "dev",
+      "question": "Trong truyện 'The Caliph and the Poet', vì sao Thalibi cuối cùng lại cầu xin Al Mansur trả vàng thay vì tiếp tục nghe ba lời khuyên?",
+      "expected_answer": "Vì hai lời khuyên đầu khiến ông tiếc số vàng mình đã bỏ qua, nên khi caliph chuẩn bị nói lời khuyên thứ ba, ông xin nhận vàng.",
+      "gold_source_id": "fifty_famous",
+      "gold_page": 29,
+      "evidence_quote": "O caliph, have mercy! Keep the third piece of wisdom for your own use, and let me have the gold."
+    },
+    {
+      "id": "Q008",
+      "split": "dev",
+      "question": "Trong truyện 'Becos! Becos! Becos!', nhà vua đã yêu cầu người chăn cừu làm gì khi giao hai đứa trẻ cho ông chăm sóc?",
+      "expected_answer": "Không được nói chuyện với hai đứa trẻ và không được để bất kỳ ai nói trước mặt chúng.",
+      "gold_source_id": "fifty_famous",
+      "gold_page": 31,
+      "evidence_quote": "You must never speak a word to them; and you must not permit any person to speak in their hearing."
+    },
+    {
+      "id": "Q009",
+      "split": "dev",
+      "question": "Trong truyện 'A Lesson in Humility', câu thơ nào khiến Haroun-al-Raschid xúc động và bật khóc giữa bữa tiệc?",
+      "expected_answer": "Câu thơ nhắc rằng khi cái chết đến, ông sẽ nhận ra mọi niềm vui và sự xa hoa chỉ là cái bóng.",
+      "gold_source_id": "fifty_famous",
+      "gold_page": 35,
+      "evidence_quote": "But when the hour of death comes, O my caliph, then alas! thou wilt learn that all thy delights were but a shadow."
+    },
+    {
+      "id": "Q010",
+      "split": "dev",
+      "question": "Trong truyện 'The Midnight Ride', Paul Revere và người bạn đã thống nhất sử dụng tín hiệu đèn như thế nào để báo cho ông biết quân Anh sẽ đi qua đâu?",
+      "expected_answer": "Một chiếc đèn nếu quân Anh đi đường bộ; hai chiếc đèn nếu họ vượt sông.",
+      "gold_source_id": "fifty_famous",
+      "gold_page": 37,
+      "evidence_quote": "If they are to cross the river, hang two."
+    },
+    {
+      "id": "Q011",
+      "split": "dev",
+      "question": "Trong truyện 'The Boy and the Wolf', điều gì thực sự xảy ra khi Gilbert nhảy ra ôm cổ con vật mà cậu tưởng là sói?",
+      "expected_answer": "Con vật không cắn hay cào cậu mà nhảy tới hất cậu ngã xuống đất; hóa ra đó chỉ là một con bê nuôi.",
+      "gold_source_id": "fifty_famous",
+      "gold_page": 43,
+      "evidence_quote": "It was not a wolf. It was only a pet calf that had come there to browse among the bushes."
+    },
+    {
+      "id": "Q012",
+      "split": "dev",
+      "question": "Trong truyện 'Another Wolf Story', tại sao Israel Putnam bất ngờ giật dây thừng để những người bên ngoài kéo mình ra khỏi hang lần đầu tiên?",
+      "expected_answer": "Ông muốn ra ngoài lấy khẩu súng rồi quay trở lại hang đối đầu với con sói.",
+      "gold_source_id": "fifty_famous",
+      "gold_page": 47,
+      "evidence_quote": "They feared that the wolf was upon him; but he wished only to get his gun."
+    },
+    {
+      "id": "Q013",
+      "split": "dev",
+      "question": "Trong truyện 'The Horseshoe Nails', việc đóng thiếu đinh móng ngựa đã khiến vua Richard gặp những hậu quả liên tiếp nào?",
+      "expected_answer": "Móng ngựa rơi ra, ngựa bị què và hất vua xuống đất; Richard mất trận chiến và mất ngai vàng.",
+      "gold_source_id": "fifty_famous",
+      "gold_page": 51,
+      "evidence_quote": "The horse stumbled, and his rider was thrown heavily to the ground."
+    },
+    {
+      "id": "Q014",
+      "split": "dev",
+      "question": "Trong truyện 'The Landlord's Mistake', sau khi biết người khách bị mình từ chối chính là Thomas Jefferson, chủ khách sạn đã đến xin lỗi. Jefferson trả lời thế nào?",
+      "expected_answer": "Ông từ chối quay lại và nói rằng người nông dân cũng đáng được đối xử như bất kỳ người nào khác; nơi không có chỗ cho nông dân thì cũng không có chỗ cho ông.",
+      "gold_source_id": "fifty_famous",
+      "gold_page": 54,
+      "evidence_quote": "A farmer is as good as any other man; and where there's no room for a farmer, there can be no room for me."
+    },
+    {
+      "id": "Q015",
+      "split": "dev",
+      "question": "Trong truyện 'A Lesson in Manners', Dean Swift đã làm gì để người đưa quà của ông Boyle hiểu cách cư xử lịch sự khi chuyển lời nhắn?",
+      "expected_answer": "Dean Swift đổi vai với người đưa quà, tự đóng vai người đưa tin và làm mẫu cách gõ cửa, cúi chào và trao quà lịch sự.",
+      "gold_source_id": "fifty_famous",
+      "gold_page": 57,
+      "evidence_quote": "The Dean bowed gracefully and said, If you please, sir, Mr. Boyle's compliments, and he wishes you to accept of this fine rabbit."
+    },
+    {
+      "id": "Q016",
+      "split": "dev",
+      "question": "Trong truyện 'The Ettrick Shepherd', Sirrah đã được James Hogg mua từ người bán chó nào và vào ngày tháng năm nào?",
+      "note": "Truyện kể về vai trò và sự trung thành của Sirrah nhưng không nêu người bán chó hay ngày James Hogg nhận nuôi nó."
+    },
+    {
+      "id": "Q017",
+      "split": "dev",
+      "question": "Trong truyện 'The Midnight Ride', Paul Revere đã mất chính xác bao nhiêu phút để đi từ bờ sông đến ngôi nhà đầu tiên và đánh thức người nông dân?",
+      "note": "Truyện mô tả hành trình và việc phát báo động nhưng không cung cấp thời gian di chuyển chính xác."
+    },
+    {
+      "id": "Q018",
+      "split": "test",
+      "question": "Trong truyện 'Going to Sea', điều gì khiến George Washington thay đổi quyết định ngay khi chuẩn bị lên tàu?",
+      "expected_answer": "Ông nhìn thấy nước mắt của mẹ và không thể chịu được nỗi buồn của bà, nên quyết định ở nhà.",
+      "gold_source_id": "fifty_famous",
+      "gold_page": 60,
+      "evidence_quote": "He saw the tears in his mother's eyes. He saw them rolling down her cheeks. He knew that she did not wish him to go."
+    },
+    {
+      "id": "Q019",
+      "split": "test",
+      "question": "Trong truyện 'The Shepherd-Boy Painter', bức vẽ nào của Giotto đã khiến người họa sĩ Cimabue chú ý và quyết định dạy cậu vẽ?",
+      "expected_answer": "Bức vẽ một con cừu trên mặt đá phẳng.",
+      "gold_source_id": "fifty_famous",
+      "gold_page": 62,
+      "evidence_quote": "It was the picture of a sheep, and it was drawn so well that the stranger was filled with astonishment."
+    },
+    {
+      "id": "Q020",
+      "split": "test",
+      "question": "Trong truyện 'Two Great Painters', Parrhasius đã đánh lừa Zeuxis bằng cách nào?",
+      "expected_answer": "Ông vẽ một bức tranh trông như có tấm rèm che phủ, khiến Zeuxis tưởng đó là rèm thật và yêu cầu kéo rèm ra.",
+      "gold_source_id": "fifty_famous",
+      "gold_page": 66,
+      "evidence_quote": "Parrhasius laughed and answered, The curtain is the picture."
+    },
+    {
+      "id": "Q021",
+      "split": "test",
+      "question": "Trong truyện 'The King and the Bees', Solomon đã giải câu đố của Nữ hoàng Sheba bằng cách nào?",
+      "expected_answer": "Ông yêu cầu mở cửa sổ để ong bay vào; những con ong chỉ bay đến vòng hoa thật.",
+      "gold_source_id": "fifty_famous",
+      "gold_page": 67,
+      "evidence_quote": "All flew to the flowers in the queen's right hand. Not one of the bees so much as looked at those in her left hand."
+    },
+    {
+      "id": "Q022",
+      "split": "test",
+      "question": "Trong truyện 'Our First Great Painter', Benjamin West đã sử dụng những vật liệu nào để vẽ bức chân dung em gái khi đang trông em?",
+      "expected_answer": "Một tấm ván nhẵn làm bề mặt vẽ và một mẩu than đen làm bút vẽ.",
+      "gold_source_id": "fifty_famous",
+      "gold_page": 71,
+      "evidence_quote": "He had no paper, but he knew where there was a smooth board. He had no pencil, but there was a piece of black charcoal on the hearth."
+    },
+    {
+      "id": "Q023",
+      "split": "test",
+      "question": "Trong truyện 'The Boy and the Wolf', con bê mà Gilbert nhìn thấy có màu lông chính xác là màu gì?",
+      "note": "Truyện tiết lộ con vật là một con bê nuôi nhưng không mô tả màu lông của nó."
+    },
+    {
+      "id": "Q024",
+      "split": "test",
+      "question": "Trong truyện 'The Shepherd-Boy Painter', Giotto đã dùng chính xác bao nhiêu nét vẽ để tạo nên hình con ruồi trên bức tranh của Cimabue?",
+      "note": "Truyện kể rằng Giotto vẽ một con ruồi rất giống thật nhưng không nêu số nét vẽ."
+    }
   ],
-  "note":"Dev split = 15 answerable + 2 no-evidence; Test split = 5 answerable + 2 no-evidence."
+  "note": "Dev split = 15 answerable + 2 no-evidence; Test split = 5 answerable + 2 no-evidence. All questions are based on story events in Fifty Famous People: A Book of Short Stories by James Baldwin."
 }
-
-
-

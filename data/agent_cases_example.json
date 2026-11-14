@@ -1,4 +1,800 @@
 [
-  {"id":"a1","split":"dev","question":"Hoàn tiền mất bao lâu?","answerable":true,"expected_behavior":"search_and_answer"},
-  {"id":"a2","split":"dev","question":"Chính sách có hỗ trợ đổi chuyến bay không?","answerable":false,"expected_behavior":"search_and_abstain","absence_reason":"Không có bằng chứng trong fixture một chunk."}
+{
+  "id": "a001",
+  "split": "dev",
+  "question": "Search the book for evidence about 'Saving the Birds' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a002",
+  "split": "dev",
+  "question": "Search the book for evidence about 'Saving the Birds' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a003",
+  "split": "dev",
+  "question": "Search the book for evidence about 'Another Bird Story' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a004",
+  "split": "dev",
+  "question": "Search the book for evidence about 'Another Bird Story' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a005",
+  "split": "dev",
+  "question": "Search the book for evidence about 'Speaking a Piece' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a006",
+  "split": "dev",
+  "question": "Search the book for evidence about 'Speaking a Piece' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a007",
+  "split": "dev",
+  "question": "Search the book for evidence about 'Writing a Composition' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a008",
+  "split": "dev",
+  "question": "Search the book for evidence about 'Writing a Composition' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a009",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Whistle' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a010",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Whistle' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a011",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Ettrick Shepherd' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a012",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Ettrick Shepherd' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a013",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Caliph and the Poet' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a014",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Caliph and the Poet' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a015",
+  "split": "dev",
+  "question": "Search the book for evidence about 'Becos! Becos! Becos!' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a016",
+  "split": "dev",
+  "question": "Search the book for evidence about 'Becos! Becos! Becos!' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a017",
+  "split": "dev",
+  "question": "Search the book for evidence about 'A Lesson in Humility' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a018",
+  "split": "dev",
+  "question": "Search the book for evidence about 'A Lesson in Humility' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a019",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Midnight Ride' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a020",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Midnight Ride' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a021",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Boy and the Wolf' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a022",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Boy and the Wolf' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a023",
+  "split": "dev",
+  "question": "Search the book for evidence about 'Another Wolf Story' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a024",
+  "split": "dev",
+  "question": "Search the book for evidence about 'Another Wolf Story' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a025",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Horseshoe Nails' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a026",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Horseshoe Nails' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a027",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Landlord's Mistake' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a028",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Landlord's Mistake' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a029",
+  "split": "dev",
+  "question": "Search the book for evidence about 'A Lesson in Manners' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a030",
+  "split": "dev",
+  "question": "Search the book for evidence about 'A Lesson in Manners' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a031",
+  "split": "dev",
+  "question": "Search the book for evidence about 'Going to Sea' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a032",
+  "split": "dev",
+  "question": "Search the book for evidence about 'Going to Sea' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a033",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Shepherd-Boy Painter' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a034",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Shepherd-Boy Painter' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a035",
+  "split": "dev",
+  "question": "Search the book for evidence about 'Two Great Painters' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a036",
+  "split": "dev",
+  "question": "Search the book for evidence about 'Two Great Painters' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a037",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The King and the Bees' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a038",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The King and the Bees' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a039",
+  "split": "dev",
+  "question": "Search the book for evidence about 'Our First Great Painter' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a040",
+  "split": "dev",
+  "question": "Search the book for evidence about 'Our First Great Painter' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a041",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Young Scout' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a042",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Young Scout' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a043",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Lad Who Rode Sidesaddle' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a044",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Lad Who Rode Sidesaddle' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a045",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Whisperers' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a046",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Whisperers' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a047",
+  "split": "dev",
+  "question": "Search the book for evidence about 'How a Prince Learned to Read' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a048",
+  "split": "dev",
+  "question": "Search the book for evidence about 'How a Prince Learned to Read' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a049",
+  "split": "dev",
+  "question": "Search the book for evidence about 'Read, and You Will Know' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a050",
+  "split": "dev",
+  "question": "Search the book for evidence about 'Read, and You Will Know' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a051",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Young Cupbearer' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a052",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Young Cupbearer' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a053",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Sons of the Caliph' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a054",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Sons of the Caliph' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a055",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Boy and the Robbers' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a056",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Boy and the Robbers' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a057",
+  "split": "dev",
+  "question": "Search the book for evidence about 'A Lesson in Justice' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a058",
+  "split": "dev",
+  "question": "Search the book for evidence about 'A Lesson in Justice' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a059",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The General and the Fox' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a060",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The General and the Fox' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a061",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Bomb' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a062",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Bomb' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a063",
+  "split": "dev",
+  "question": "Search the book for evidence about 'A Story of Old Rome' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a064",
+  "split": "dev",
+  "question": "Search the book for evidence about 'A Story of Old Rome' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a065",
+  "split": "dev",
+  "question": "Search the book for evidence about 'Saved by a Dolphin' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a066",
+  "split": "dev",
+  "question": "Search the book for evidence about 'Saved by a Dolphin' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a067",
+  "split": "dev",
+  "question": "Search the book for evidence about 'Little Brothers of the Air' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a068",
+  "split": "dev",
+  "question": "Search the book for evidence about 'Little Brothers of the Air' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a069",
+  "split": "dev",
+  "question": "Search the book for evidence about 'A Clever Slave' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a070",
+  "split": "dev",
+  "question": "Search the book for evidence about 'A Clever Slave' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a071",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Dark Day' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a072",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Dark Day' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a073",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Surly Guest' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a074",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Surly Guest' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a075",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Story of a Great Story' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a076",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Story of a Great Story' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a077",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The King and the Page' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a078",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The King and the Page' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a079",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Hunted King' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a080",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Hunted King' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a081",
+  "split": "dev",
+  "question": "Search the book for evidence about 'Try, Try Again!' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a082",
+  "split": "dev",
+  "question": "Search the book for evidence about 'Try, Try Again!' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a083",
+  "split": "dev",
+  "question": "Search the book for evidence about 'Why He Carried the Turkey' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a084",
+  "split": "dev",
+  "question": "Search the book for evidence about 'Why He Carried the Turkey' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a085",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Paddle-Wheel Boat' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a086",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Paddle-Wheel Boat' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a087",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Caliph and the Gardener' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a088",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Caliph and the Gardener' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a089",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Cowherd Who Became a Poet' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a090",
+  "split": "dev",
+  "question": "Search the book for evidence about 'The Cowherd Who Became a Poet' and summarize the relevant event or lesson.",
+  "answerable": true,
+  "expected_behavior": "search_and_answer"
+},
+{
+  "id": "a091",
+  "split": "dev",
+  "question": "What was the exact private thought Abraham Lincoln had before helping the birds?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "The supplied book text does not provide evidence for this exact detail."
+},
+{
+  "id": "a092",
+  "split": "dev",
+  "question": "What was the serial number of Benjamin Franklin's whistle?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "The supplied book text does not provide evidence for this exact detail."
+},
+{
+  "id": "a093",
+  "split": "dev",
+  "question": "What was the precise GPS coordinate of the ravine in the Ettrick Shepherd story?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "The supplied book text does not provide evidence for this exact detail."
+},
+{
+  "id": "a094",
+  "split": "dev",
+  "question": "What was the exact date and time that Sirrah died?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "The supplied book text does not provide evidence for this exact detail."
+},
+{
+  "id": "a095",
+  "split": "dev",
+  "question": "What was the full name of every lawyer who rode with Lincoln?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "The supplied book text does not provide evidence for this exact detail."
+},
+{
+  "id": "a096",
+  "split": "dev",
+  "question": "What would the whistle cost in today's exact US dollars?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "The supplied book text does not provide evidence for this exact detail."
+},
+{
+  "id": "a097",
+  "split": "dev",
+  "question": "What was the name of the ship that rescued Alexander Selkirk?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "The supplied book text does not provide evidence for this exact detail."
+},
+{
+  "id": "a098",
+  "split": "dev",
+  "question": "What was the exact temperature on the night Selkirk was left on the island?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "The supplied book text does not provide evidence for this exact detail."
+},
+{
+  "id": "a099",
+  "split": "dev",
+  "question": "How many copies of Robinson Crusoe were sold in its first week?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "The supplied book text does not provide evidence for this exact detail."
+},
+{
+  "id": "a100",
+  "split": "dev",
+  "question": "What was Giotto's exact age when he painted the fly?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "The supplied book text does not provide evidence for this exact detail."
+},
+{
+  "id": "a101",
+  "split": "dev",
+  "question": "What private conversation did Cimabue and Giotto have after the story ended?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "The supplied book text does not provide evidence for this exact detail."
+},
+{
+  "id": "a102",
+  "split": "dev",
+  "question": "What was the serial number of Robert Fulton's first engine?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "The supplied book text does not provide evidence for this exact detail."
+},
+{
+  "id": "a103",
+  "split": "dev",
+  "question": "What exact clothes did Arion wear while performing?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "The supplied book text does not provide evidence for this exact detail."
+},
+{
+  "id": "a104",
+  "split": "dev",
+  "question": "What were the names of every sailor aboard Arion's ship?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "The supplied book text does not provide evidence for this exact detail."
+},
+{
+  "id": "a105",
+  "split": "dev",
+  "question": "What was Caedmon's exact birth-certificate date?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "The supplied book text does not provide evidence for this exact detail."
+},
+{
+  "id": "a106",
+  "split": "dev",
+  "question": "What was the gardener's street address?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "The supplied book text does not provide evidence for this exact detail."
+},
+{
+  "id": "a107",
+  "split": "dev",
+  "question": "What is the exact modern market value of the golden tripod?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "The supplied book text does not provide evidence for this exact detail."
+},
+{
+  "id": "a108",
+  "split": "dev",
+  "question": "What page number does this story have in every edition ever printed?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "The supplied book text does not provide evidence for this exact detail."
+},
+{
+  "id": "a109",
+  "split": "dev",
+  "question": "What unpublished alternative ending did James Baldwin write?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "The supplied book text does not provide evidence for this exact detail."
+},
+{
+  "id": "a110",
+  "split": "dev",
+  "question": "What did a character say in a scene that is not present in the book?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "The supplied book text does not provide evidence for this exact detail."
+},
+{
+  "id": "a111",
+  "split": "dev",
+  "question": "What was the author's private intention, if it is not stated in the text?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "The supplied book text does not provide evidence for this exact detail."
+}
 ]
