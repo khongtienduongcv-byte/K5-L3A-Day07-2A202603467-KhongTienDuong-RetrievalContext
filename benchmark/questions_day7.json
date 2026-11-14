@@ -1,0 +1,33 @@
+{
+  "manifest_version": 1,
+  "questions": [
+    {"id":"Q001","split":"dev","question":"Thành phố nào là thủ đô của Pháp?","expected_answer":"Paris","gold_source_id":"demo","gold_page":1,"evidence_quote":"Thành phố Paris là thủ đô của nước Pháp."},
+    {"id":"Q002","split":"dev","question":"Ai là tác giả của tác phẩm Hamlet?","expected_answer":"William Shakespeare","gold_source_id":"demo","gold_page":2,"evidence_quote":"William Shakespeare là tác giả nổi tiếng nhất của Hamlet."},
+    {"id":"Q003","split":"dev","question":"Hình học gọi gì cho tam giác có ba cạnh bằng nhau?","expected_answer":"Tam giác đều","gold_source_id":"demo","gold_page":3,"evidence_quote":"Tam giác đều có ba cạnh có độ dài bằng nhau."},
+    {"id":"Q004","split":"dev","question":"Phần nào của cơ thể con người điều khiển sự cân bằng?","expected_answer":"Tai trong","gold_source_id":"demo","gold_page":4,"evidence_quote":"Cơ quan tiền đình ở trong tai giúp duy trì cân bằng."},
+    {"id":"Q005","split":"dev","question":"Công thức hóa học của nước là gì?","expected_answer":"H2O","gold_source_id":"demo","gold_page":5,"evidence_quote":"Phân tử nước có công thức hóa học là H2O."},
+    {"id":"Q006","split":"dev","question":"Tháng mấy thường diễn ra Tết Trung thu ở Việt Nam?","expected_answer":"Tháng 8 âm lịch","gold_source_id":"demo","gold_page":6,"evidence_quote":"Tháng tám âm lịch là thời điểm diễn ra Tết Trung thu ở Việt Nam."},
+    {"id":"Q007","split":"dev","question":"Ai là một trong những người đồng sáng lập công ty Apple?","expected_answer":"Steve Jobs","gold_source_id":"demo","gold_page":7,"evidence_quote":"Steve Jobs là một trong những người đồng sáng lập Apple."},
+    {"id":"Q008","split":"dev","question":"Bán kính trung bình của Trái Đất khoảng bao nhiêu km?","expected_answer":"6371 km","gold_source_id":"demo","gold_page":8,"evidence_quote":"Bán kính trung bình của Trái Đất là khoảng 6371 km."},
+    {"id":"Q009","split":"dev","question":"Màu sắc chủ đạo trên quốc kỳ Việt Nam là gì?","expected_answer":"Đỏ","gold_source_id":"demo","gold_page":9,"evidence_quote":"Màu đỏ là màu nền chính của quốc kỳ Việt Nam."},
+    {"id":"Q010","split":"dev","question":"Nguyên tố nào tạo nên màu đỏ đặc trưng của đá ruby?","expected_answer":"Crôm","gold_source_id":"demo","gold_page":10,"evidence_quote":"Ruby là khoáng vật corundum chứa crôm tạo nên màu đỏ."},
+    {"id":"Q011","split":"dev","question":"Nhiệt độ đóng băng của nước tinh khiết ở áp suất tiêu chuẩn là bao nhiêu độ C?","expected_answer":"0°C","gold_source_id":"demo","gold_page":11,"evidence_quote":"Nhiệt độ đóng băng của nước tinh khiết là 0°C ở áp suất tiêu chuẩn."},
+    {"id":"Q012","split":"dev","question":"Ai là Tổng thống Hoa Kỳ đầu tiên?","expected_answer":"George Washington","gold_source_id":"demo","gold_page":12,"evidence_quote":"George Washington là tổng thống đầu tiên của Hoa Kỳ."},
+    {"id":"Q013","split":"dev","question":"Hành tinh nào gần Mặt Trời nhất?","expected_answer":"Sao Thủy","gold_source_id":"demo","gold_page":13,"evidence_quote":"Sao Thủy là hành tinh gần Mặt Trời nhất trong Hệ Mặt Trời."},
+    {"id":"Q014","split":"dev","question":"Nguyên tố hóa học nào có ký hiệu Au?","expected_answer":"Vàng","gold_source_id":"demo","gold_page":14,"evidence_quote":"Au là ký hiệu hóa học của nguyên tố vàng."},
+    {"id":"Q015","split":"dev","question":"Môn thể thao truyền thống nổi tiếng của Nhật Bản là gì?","expected_answer":"Sumo","gold_source_id":"demo","gold_page":15,"evidence_quote":"Sumo là môn thể thao truyền thống nổi tiếng của Nhật Bản."},
+
+    {"id":"Q016","split":"dev","question":"Nhiệt độ chính xác trên sao Hỏa vào thứ Hai tuần trước là bao nhiêu?","note":"Không có dữ liệu thời tiết từ sao Hỏa trong corpus."},
+    {"id":"Q017","split":"dev","question":"Danh sách các số trúng xổ số lần cuối cùng trong năm 2023 là gì?","note":"Dữ liệu xổ số không được lưu trữ trong corpus."},
+
+    {"id":"Q018","split":"test","question":"Ký hiệu hóa học của vàng là gì?","expected_answer":"Au","gold_source_id":"demo","gold_page":3,"evidence_quote":"Au là ký hiệu hóa học của vàng."},
+    {"id":"Q019","split":"test","question":"Hành tinh nào gần Mặt Trời nhất?","expected_answer":"Sao Thủy","gold_source_id":"demo","gold_page":4,"evidence_quote":"Sao Thủy là hành tinh quay quanh Mặt Trời gần nhất."},
+    {"id":"Q020","split":"test","question":"Thủ đô của Vương quốc Anh là thành phố nào?","expected_answer":"London","gold_source_id":"demo","gold_page":5,"evidence_quote":"London là thủ đô của Vương quốc Anh."},
+    {"id":"Q021","split":"test","question":"Đá marble (đá cẩm thạch) chủ yếu chứa hợp chất nào?","expected_answer":"Canxi cacbonat","gold_source_id":"demo","gold_page":6,"evidence_quote":"Đá marble chủ yếu chứa canxi cacbonat."},
+    {"id":"Q022","split":"test","question":"Leo Tolstoy là nhà văn của quốc gia nào?","expected_answer":"Nga","gold_source_id":"demo","gold_page":7,"evidence_quote":"Leo Tolstoy là một nhà văn nổi tiếng người Nga."},
+
+    {"id":"Q023","split":"test","question":"Giá cổ phiếu XYJ vào ngày mai sẽ là bao nhiêu?","note":"Thị trường tài chính và dữ liệu dự báo giá cổ phiếu không có trong corpus."},
+    {"id":"Q024","split":"test","question":"Ngày chính xác của kỳ nguyệt thực tiếp theo là ngày nào?","note":"Lịch các sự kiện thiên văn không có trong corpus."}
+  ],
+  "note":"Dev split = 15 answerable + 2 no-evidence; Test split = 5 answerable + 2 no-evidence."
+}

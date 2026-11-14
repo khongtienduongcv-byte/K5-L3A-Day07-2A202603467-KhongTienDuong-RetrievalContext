@@ -1,0 +1,10 @@
+{
+  "embedding_model": "all-MiniLM-L6-v2",
+  "embedding_version": "1.0",
+  "dimension": 384,
+  "vector_store": "Chroma",
+  "vector_store_path": "data/chroma_db",
+  "connection_string": "chroma://local",
+  "document_count": 124,
+  "chunk_token_limit": 256
+}

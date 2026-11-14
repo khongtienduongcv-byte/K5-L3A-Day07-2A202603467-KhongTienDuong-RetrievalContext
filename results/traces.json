@@ -1,0 +1,535 @@
+[
+  {
+    "query_id": "Q001",
+    "split": "dev",
+    "question": "Thành phố nào là thủ đô của Pháp?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "dense",
+        "top_k": 3,
+        "context_ids": [
+          "fifty_famous_A_4",
+          "fifty_famous_A_3",
+          "fifty_famous_BC_1"
+        ],
+        "context_chars": 5878
+      }
+    ],
+    "elapsed_ms": 3348.99
+  },
+  {
+    "query_id": "Q002",
+    "split": "dev",
+    "question": "Ai là tác giả của tác phẩm Hamlet?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "dense",
+        "top_k": 3,
+        "context_ids": [
+          "fifty_famous_A_2",
+          "fifty_famous_BC_1",
+          "fifty_famous_BC_1"
+        ],
+        "context_chars": 1177
+      }
+    ],
+    "elapsed_ms": 3528.36
+  },
+  {
+    "query_id": "Q003",
+    "split": "dev",
+    "question": "Hình học gọi gì cho tam giác có ba cạnh bằng nhau?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "dense",
+        "top_k": 3,
+        "context_ids": [
+          "fifty_famous_BC_1",
+          "fifty_famous_BC_1",
+          "fifty_famous_BC_1"
+        ],
+        "context_chars": 365
+      }
+    ],
+    "elapsed_ms": 3366.06
+  },
+  {
+    "query_id": "Q004",
+    "split": "dev",
+    "question": "Phần nào của cơ thể con người điều khiển sự cân bằng?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "dense",
+        "top_k": 3,
+        "context_ids": [
+          "fifty_famous_A_1",
+          "fifty_famous_A_2",
+          "fifty_famous_A_1"
+        ],
+        "context_chars": 6240
+      }
+    ],
+    "elapsed_ms": 3278.12
+  },
+  {
+    "query_id": "Q005",
+    "split": "dev",
+    "question": "Công thức hóa học của nước là gì?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "dense",
+        "top_k": 3,
+        "context_ids": [
+          "fifty_famous_A_2",
+          "fifty_famous_BC_1",
+          "fifty_famous_BC_1"
+        ],
+        "context_chars": 710
+      }
+    ],
+    "elapsed_ms": 3305.73
+  },
+  {
+    "query_id": "Q006",
+    "split": "dev",
+    "question": "Tháng mấy thường diễn ra Tết Trung thu ở Việt Nam?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "dense",
+        "top_k": 3,
+        "context_ids": [
+          "fifty_famous_BC_1",
+          "fifty_famous_BC_1",
+          "fifty_famous_BC_1"
+        ],
+        "context_chars": 627
+      }
+    ],
+    "elapsed_ms": 3448.97
+  },
+  {
+    "query_id": "Q007",
+    "split": "dev",
+    "question": "Ai là một trong những người đồng sáng lập công ty Apple?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "dense",
+        "top_k": 3,
+        "context_ids": [
+          "fifty_famous_A_2",
+          "fifty_famous_BC_1",
+          "fifty_famous_BC_1"
+        ],
+        "context_chars": 710
+      }
+    ],
+    "elapsed_ms": 3273.75
+  },
+  {
+    "query_id": "Q008",
+    "split": "dev",
+    "question": "Bán kính trung bình của Trái Đất khoảng bao nhiêu km?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [
+      "fifty_famous_A_1",
+      "fifty_famous_A_2"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "method": "dense",
+        "top_k": 3,
+        "context_ids": [
+          "fifty_famous_A_1",
+          "fifty_famous_A_1",
+          "fifty_famous_A_2"
+        ],
+        "context_chars": 7750
+      }
+    ],
+    "elapsed_ms": 3494.19
+  },
+  {
+    "query_id": "Q009",
+    "split": "dev",
+    "question": "Màu sắc chủ đạo trên quốc kỳ Việt Nam là gì?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "dense",
+        "top_k": 3,
+        "context_ids": [
+          "fifty_famous_A_2",
+          "fifty_famous_A_1",
+          "fifty_famous_BC_1"
+        ],
+        "context_chars": 3320
+      }
+    ],
+    "elapsed_ms": 3103.14
+  },
+  {
+    "query_id": "Q010",
+    "split": "dev",
+    "question": "Nguyên tố nào tạo nên màu đỏ đặc trưng của đá ruby?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "dense",
+        "top_k": 3,
+        "context_ids": [
+          "fifty_famous_BC_1",
+          "fifty_famous_BC_1",
+          "fifty_famous_A_1"
+        ],
+        "context_chars": 1810
+      }
+    ],
+    "elapsed_ms": 3087.97
+  },
+  {
+    "query_id": "Q011",
+    "split": "dev",
+    "question": "Nhiệt độ đóng băng của nước tinh khiết ở áp suất tiêu chuẩn là bao nhiêu độ C?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "dense",
+        "top_k": 3,
+        "context_ids": [
+          "fifty_famous_A_2",
+          "fifty_famous_A_2",
+          "fifty_famous_BC_1"
+        ],
+        "context_chars": 592
+      }
+    ],
+    "elapsed_ms": 3380.58
+  },
+  {
+    "query_id": "Q012",
+    "split": "dev",
+    "question": "Ai là Tổng thống Hoa Kỳ đầu tiên?",
+    "status": "answered",
+    "answer": "George Washington",
+    "citations": [
+      "fifty_famous_BC_1"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "method": "dense",
+        "top_k": 3,
+        "context_ids": [
+          "fifty_famous_BC_1",
+          "fifty_famous_BC_1",
+          "fifty_famous_A_1"
+        ],
+        "context_chars": 2719
+      }
+    ],
+    "elapsed_ms": 3572.15
+  },
+  {
+    "query_id": "Q013",
+    "split": "dev",
+    "question": "Hành tinh nào gần Mặt Trời nhất?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "dense",
+        "top_k": 3,
+        "context_ids": [
+          "fifty_famous_A_3",
+          "fifty_famous_A_1",
+          "fifty_famous_BC_1"
+        ],
+        "context_chars": 4345
+      }
+    ],
+    "elapsed_ms": 3918.98
+  },
+  {
+    "query_id": "Q014",
+    "split": "dev",
+    "question": "Nguyên tố hóa học nào có ký hiệu Au?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "dense",
+        "top_k": 3,
+        "context_ids": [
+          "fifty_famous_A_3",
+          "fifty_famous_A_2",
+          "fifty_famous_BC_1"
+        ],
+        "context_chars": 843
+      }
+    ],
+    "elapsed_ms": 3268.35
+  },
+  {
+    "query_id": "Q015",
+    "split": "dev",
+    "question": "Môn thể thao truyền thống nổi tiếng của Nhật Bản là gì?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "dense",
+        "top_k": 3,
+        "context_ids": [
+          "fifty_famous_BC_1",
+          "fifty_famous_BC_1",
+          "fifty_famous_BC_1"
+        ],
+        "context_chars": 529
+      }
+    ],
+    "elapsed_ms": 2970.36
+  },
+  {
+    "query_id": "Q016",
+    "split": "dev",
+    "question": "Nhiệt độ chính xác trên sao Hỏa vào thứ Hai tuần trước là bao nhiêu?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "dense",
+        "top_k": 3,
+        "context_ids": [
+          "fifty_famous_BC_1",
+          "fifty_famous_BC_1",
+          "fifty_famous_A_1"
+        ],
+        "context_chars": 3391
+      }
+    ],
+    "elapsed_ms": 2929.03
+  },
+  {
+    "query_id": "Q017",
+    "split": "dev",
+    "question": "Danh sách các số trúng xổ số lần cuối cùng trong năm 2023 là gì?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "dense",
+        "top_k": 3,
+        "context_ids": [
+          "fifty_famous_BC_1",
+          "fifty_famous_BC_1",
+          "fifty_famous_A_1"
+        ],
+        "context_chars": 2405
+      }
+    ],
+    "elapsed_ms": 3876.98
+  },
+  {
+    "query_id": "Q018",
+    "split": "test",
+    "question": "Ký hiệu hóa học của vàng là gì?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "dense",
+        "top_k": 3,
+        "context_ids": [
+          "fifty_famous_BC_1",
+          "fifty_famous_BC_1",
+          "fifty_famous_A_2"
+        ],
+        "context_chars": 664
+      }
+    ],
+    "elapsed_ms": 3173.45
+  },
+  {
+    "query_id": "Q019",
+    "split": "test",
+    "question": "Hành tinh nào gần Mặt Trời nhất?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "dense",
+        "top_k": 3,
+        "context_ids": [
+          "fifty_famous_A_3",
+          "fifty_famous_A_1",
+          "fifty_famous_BC_1"
+        ],
+        "context_chars": 4345
+      }
+    ],
+    "elapsed_ms": 3710.3
+  },
+  {
+    "query_id": "Q020",
+    "split": "test",
+    "question": "Thủ đô của Vương quốc Anh là thành phố nào?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "dense",
+        "top_k": 3,
+        "context_ids": [
+          "fifty_famous_BC_1",
+          "fifty_famous_BC_1",
+          "fifty_famous_A_2"
+        ],
+        "context_chars": 481
+      }
+    ],
+    "elapsed_ms": 3326.24
+  },
+  {
+    "query_id": "Q021",
+    "split": "test",
+    "question": "Đá marble (đá cẩm thạch) chủ yếu chứa hợp chất nào?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "dense",
+        "top_k": 3,
+        "context_ids": [
+          "fifty_famous_BC_1",
+          "fifty_famous_BC_1",
+          "fifty_famous_BC_1"
+        ],
+        "context_chars": 430
+      }
+    ],
+    "elapsed_ms": 2769.84
+  },
+  {
+    "query_id": "Q022",
+    "split": "test",
+    "question": "Leo Tolstoy là nhà văn của quốc gia nào?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "dense",
+        "top_k": 3,
+        "context_ids": [
+          "fifty_famous_BC_1",
+          "fifty_famous_BC_1",
+          "fifty_famous_A_2"
+        ],
+        "context_chars": 1177
+      }
+    ],
+    "elapsed_ms": 3189.71
+  },
+  {
+    "query_id": "Q023",
+    "split": "test",
+    "question": "Giá cổ phiếu XYJ vào ngày mai sẽ là bao nhiêu?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "dense",
+        "top_k": 3,
+        "context_ids": [
+          "fifty_famous_A_2",
+          "fifty_famous_A_1",
+          "fifty_famous_BC_1"
+        ],
+        "context_chars": 3132
+      }
+    ],
+    "elapsed_ms": 3902.63
+  },
+  {
+    "query_id": "Q024",
+    "split": "test",
+    "question": "Ngày chính xác của kỳ nguyệt thực tiếp theo là ngày nào?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "dense",
+        "top_k": 3,
+        "context_ids": [
+          "fifty_famous_A_1",
+          "fifty_famous_BC_1",
+          "fifty_famous_BC_1"
+        ],
+        "context_chars": 2615
+      }
+    ],
+    "elapsed_ms": 3427.86
+  }
+]

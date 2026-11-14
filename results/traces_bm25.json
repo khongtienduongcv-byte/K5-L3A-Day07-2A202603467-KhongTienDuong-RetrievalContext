@@ -1,0 +1,436 @@
+[
+  {
+    "query_id": "Q001",
+    "split": "dev",
+    "question": "Thành phố nào là thủ đô của Pháp?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "bm25",
+        "top_k": 3,
+        "context_ids": [],
+        "context_chars": 0
+      }
+    ],
+    "elapsed_ms": 2443.07
+  },
+  {
+    "query_id": "Q002",
+    "split": "dev",
+    "question": "Ai là tác giả của tác phẩm Hamlet?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "bm25",
+        "top_k": 3,
+        "context_ids": [],
+        "context_chars": 0
+      }
+    ],
+    "elapsed_ms": 2260.48
+  },
+  {
+    "query_id": "Q003",
+    "split": "dev",
+    "question": "Hình học gọi gì cho tam giác có ba cạnh bằng nhau?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "bm25",
+        "top_k": 3,
+        "context_ids": [],
+        "context_chars": 0
+      }
+    ],
+    "elapsed_ms": 4366.29
+  },
+  {
+    "query_id": "Q004",
+    "split": "dev",
+    "question": "Phần nào của cơ thể con người điều khiển sự cân bằng?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "bm25",
+        "top_k": 3,
+        "context_ids": [],
+        "context_chars": 0
+      }
+    ],
+    "elapsed_ms": 2191.66
+  },
+  {
+    "query_id": "Q005",
+    "split": "dev",
+    "question": "Công thức hóa học của nước là gì?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "bm25",
+        "top_k": 3,
+        "context_ids": [],
+        "context_chars": 0
+      }
+    ],
+    "elapsed_ms": 2344.7
+  },
+  {
+    "query_id": "Q006",
+    "split": "dev",
+    "question": "Tháng mấy thường diễn ra Tết Trung thu ở Việt Nam?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "bm25",
+        "top_k": 3,
+        "context_ids": [],
+        "context_chars": 0
+      }
+    ],
+    "elapsed_ms": 1963.09
+  },
+  {
+    "query_id": "Q007",
+    "split": "dev",
+    "question": "Ai là một trong những người đồng sáng lập công ty Apple?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "bm25",
+        "top_k": 3,
+        "context_ids": [],
+        "context_chars": 0
+      }
+    ],
+    "elapsed_ms": 2091.95
+  },
+  {
+    "query_id": "Q008",
+    "split": "dev",
+    "question": "Bán kính trung bình của Trái Đất khoảng bao nhiêu km?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "bm25",
+        "top_k": 3,
+        "context_ids": [],
+        "context_chars": 0
+      }
+    ],
+    "elapsed_ms": 2375.1
+  },
+  {
+    "query_id": "Q009",
+    "split": "dev",
+    "question": "Màu sắc chủ đạo trên quốc kỳ Việt Nam là gì?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "bm25",
+        "top_k": 3,
+        "context_ids": [],
+        "context_chars": 0
+      }
+    ],
+    "elapsed_ms": 2297.01
+  },
+  {
+    "query_id": "Q010",
+    "split": "dev",
+    "question": "Nguyên tố nào tạo nên màu đỏ đặc trưng của đá ruby?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "bm25",
+        "top_k": 3,
+        "context_ids": [],
+        "context_chars": 0
+      }
+    ],
+    "elapsed_ms": 2354.97
+  },
+  {
+    "query_id": "Q011",
+    "split": "dev",
+    "question": "Nhiệt độ đóng băng của nước tinh khiết ở áp suất tiêu chuẩn là bao nhiêu độ C?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "bm25",
+        "top_k": 3,
+        "context_ids": [],
+        "context_chars": 0
+      }
+    ],
+    "elapsed_ms": 2034.48
+  },
+  {
+    "query_id": "Q012",
+    "split": "dev",
+    "question": "Ai là Tổng thống Hoa Kỳ đầu tiên?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "bm25",
+        "top_k": 3,
+        "context_ids": [],
+        "context_chars": 0
+      }
+    ],
+    "elapsed_ms": 2344.16
+  },
+  {
+    "query_id": "Q013",
+    "split": "dev",
+    "question": "Hành tinh nào gần Mặt Trời nhất?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "bm25",
+        "top_k": 3,
+        "context_ids": [],
+        "context_chars": 0
+      }
+    ],
+    "elapsed_ms": 2390.15
+  },
+  {
+    "query_id": "Q014",
+    "split": "dev",
+    "question": "Nguyên tố hóa học nào có ký hiệu Au?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "bm25",
+        "top_k": 3,
+        "context_ids": [],
+        "context_chars": 0
+      }
+    ],
+    "elapsed_ms": 2046.8
+  },
+  {
+    "query_id": "Q015",
+    "split": "dev",
+    "question": "Môn thể thao truyền thống nổi tiếng của Nhật Bản là gì?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "bm25",
+        "top_k": 3,
+        "context_ids": [],
+        "context_chars": 0
+      }
+    ],
+    "elapsed_ms": 2088.29
+  },
+  {
+    "query_id": "Q016",
+    "split": "dev",
+    "question": "Nhiệt độ chính xác trên sao Hỏa vào thứ Hai tuần trước là bao nhiêu?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "bm25",
+        "top_k": 3,
+        "context_ids": [],
+        "context_chars": 0
+      }
+    ],
+    "elapsed_ms": 2120.98
+  },
+  {
+    "query_id": "Q017",
+    "split": "dev",
+    "question": "Danh sách các số trúng xổ số lần cuối cùng trong năm 2023 là gì?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "bm25",
+        "top_k": 3,
+        "context_ids": [],
+        "context_chars": 0
+      }
+    ],
+    "elapsed_ms": 2258.35
+  },
+  {
+    "query_id": "Q018",
+    "split": "test",
+    "question": "Ký hiệu hóa học của vàng là gì?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "bm25",
+        "top_k": 3,
+        "context_ids": [],
+        "context_chars": 0
+      }
+    ],
+    "elapsed_ms": 2026.53
+  },
+  {
+    "query_id": "Q019",
+    "split": "test",
+    "question": "Hành tinh nào gần Mặt Trời nhất?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "bm25",
+        "top_k": 3,
+        "context_ids": [],
+        "context_chars": 0
+      }
+    ],
+    "elapsed_ms": 1915.07
+  },
+  {
+    "query_id": "Q020",
+    "split": "test",
+    "question": "Thủ đô của Vương quốc Anh là thành phố nào?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "bm25",
+        "top_k": 3,
+        "context_ids": [],
+        "context_chars": 0
+      }
+    ],
+    "elapsed_ms": 2416.91
+  },
+  {
+    "query_id": "Q021",
+    "split": "test",
+    "question": "Đá marble (đá cẩm thạch) chủ yếu chứa hợp chất nào?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [
+      "id_1"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "method": "bm25",
+        "top_k": 3,
+        "context_ids": [],
+        "context_chars": 0
+      }
+    ],
+    "elapsed_ms": 2199.73
+  },
+  {
+    "query_id": "Q022",
+    "split": "test",
+    "question": "Leo Tolstoy là nhà văn của quốc gia nào?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "bm25",
+        "top_k": 3,
+        "context_ids": [],
+        "context_chars": 0
+      }
+    ],
+    "elapsed_ms": 2209.51
+  },
+  {
+    "query_id": "Q023",
+    "split": "test",
+    "question": "Giá cổ phiếu XYJ vào ngày mai sẽ là bao nhiêu?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "bm25",
+        "top_k": 3,
+        "context_ids": [],
+        "context_chars": 0
+      }
+    ],
+    "elapsed_ms": 2365.34
+  },
+  {
+    "query_id": "Q024",
+    "split": "test",
+    "question": "Ngày chính xác của kỳ nguyệt thực tiếp theo là ngày nào?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "method": "bm25",
+        "top_k": 3,
+        "context_ids": [],
+        "context_chars": 0
+      }
+    ],
+    "elapsed_ms": 2207.79
+  }
+]
