@@ -56,22 +56,4 @@ Ba phương pháp truy xuất dữ liệu (retrieval) được cấu hình và c
 - Dữ liệu log minh chứng tại `results/traces_dense.json` cho thấy việc bảo vệ hệ thống khỏi sinh ảo đang hoạt động quá hiệu quả, dẫn đến tác dụng phụ là model bị giới hạn khả năng suy luận.
 - **Hướng phát triển:** Áp dụng Multi-hop retrieval để xử lý các truy vấn cần ghép mảnh thông tin từ nhiều trang khác nhau, và áp dụng cơ chế tự động điều chỉnh `top_k` dựa trên độ phức tạp của câu hỏi.
 
----
 
-## 4. Thử thách nâng cao (Tùy chọn)
-
-- **Corpus 100 trang:** Do thời gian hạn hẹp, tiến độ tập trung toàn lực vào việc xây dựng cơ chế Load-balancing (luân phiên LLM) và tích hợp hoàn chỉnh PostgreSQL (pgvector). Phần index tài liệu nâng cao chưa được triển khai.
-
----
-
-### Tick list nộp bài (SUBMISSION.md)
-
-- [x] Code + 3 retrieval methods (BM25, Dense, Hybrid).  
-- [x] Embedding model + PostgreSQL vector store info.  
-- [x] Benchmark ≥ 24 questions với dev/test split.  
-- [x] Experiment log (`traces.json`) với đầy đủ context, status, metrics.  
-- [x] Báo cáo chi tiết theo cấu trúc yêu cầu.  
-- [x] Đã thiết lập `.gitignore`, hoàn toàn **không** chứa file `.env`, API key, hoặc dữ liệu nhạy cảm.
-
-**Repo cá nhân:** `K5-L3A-DAY07-2A202603467-KhongTienDuong-RetrievalContext`  
-**Link nộp:** https://github.com/khongtienduongcv-byte/K5-L3A-Day07-2A202603467-KhongTienDuong-RetrievalContext.git

@@ -1,10 +1,12 @@
 {
-  "embedding_model": "all-MiniLM-L6-v2",
-  "embedding_version": "1.0",
-  "dimension": 384,
-  "vector_store": "Chroma",
-  "vector_store_path": "data/chroma_db",
-  "connection_string": "chroma://local",
-  "document_count": 124,
-  "chunk_token_limit": 256
+  "book_corpus": "Fifty Famous People (Day 6 Book Corpus)",
+  "vector_store": "pgvector",
+  "host": "127.0.0.1",
+  "port": 55433,
+  "database": "day6_lab",
+  "table": "chunks_table",
+  "columns": ["chunk_id", "text", "character", "chapter", "page", "source", "embedding"],
+  "embedding_provider": "openrouter",
+  "embedding_model": "openai/text-embedding-3-small",
+  "dimensions": 1536
 }
